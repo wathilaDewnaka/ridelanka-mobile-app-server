@@ -1,7 +1,7 @@
 import os
 import google.generativeai as genai
 
-genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+genai.configure(api_key="AIzaSyCNm3Z12_CFRYUxupMKeoqnXXAoJnFPhEk")
 
 # Create the model
 generation_config = {
@@ -24,7 +24,7 @@ print("Bot: Hello, How can I help you")
 
 while True:
 
-    user_input = input("Yoou: ")
+    user_input = input("You: ")
 
     chat_session = model.start_chat(
         history=history
