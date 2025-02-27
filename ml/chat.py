@@ -46,25 +46,8 @@ def initialize_chatbot():
     
     return model
 
-def start_chatbot():
+def get_chatbot_response(question: str) -> str:
     model = initialize_chatbot()
-    history = []
-    print("Bot: Hello, how can I help you?")
-    
-    while True:
-        user_input = input("You: ")
-        if user_input.lower() in ["exit", "quit", "bye"]:
-            print("Bot: Goodbye! Have a great day!")
-            break
-        
-        chat_session = model.start_chat(history=history)
-        response = chat_session.send_message(user_input)
-        model_response = response.text
-        
-        print(f'Bot: {model_response}\n')
-        
-        history.append({"role": "user", "parts": [user_input]})
-        history.append({"role": "model", "parts": [model_response]})
-
-if __name__ == "__main__":
-    start_chatbot()
+    chat_session = model.start_chat(history=[])
+    response = chat_session.send_message(question)
+    return response.text
