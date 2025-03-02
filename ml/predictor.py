@@ -46,3 +46,12 @@ print(f"R² Score: {r2_score(y_test, y_pred):.2f}")
 
 joblib.dump(model, "trained_model.pkl")
 print("Model saved successfully!")
+
+def predict_price(from_city, to_city, vehicle_type, service_type, distance):
+    new_data = pd.DataFrame([[from_city, to_city, vehicle_type, service_type, distance]],
+                            columns=X.columns)
+    return model.predict(new_data)[0]
+
+# Example: Predict price for new input
+predicted_price = predict_price('Colombo', 'Gampaha', 'Van', 'School', 30)
+print(f"Predicted Monthly Subscription: Rs {predicted_price:.2f}")
