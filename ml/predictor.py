@@ -8,6 +8,7 @@ from sklearn.preprocessing import OneHotEncoder
 from sklearn.pipeline import Pipeline
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score
+import joblib
 
 start = datetime.now()
 
@@ -42,3 +43,6 @@ model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
 print(f"RMSE: {np.sqrt(mean_squared_error(y_test, y_pred)):.2f}")
 print(f"R² Score: {r2_score(y_test, y_pred):.2f}")
+
+joblib.dump(model, "trained_model.pkl")
+print("Model saved successfully!")
