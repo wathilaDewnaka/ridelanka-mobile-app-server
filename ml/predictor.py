@@ -3,6 +3,8 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder
+from sklearn.pipeline import Pipeline
+from sklearn.ensemble import RandomForestRegressor
 
 start = datetime.now()
 
@@ -25,3 +27,10 @@ preprocessor = ColumnTransformer(
     ],
     remainder='passthrough'  # Keep numerical column (Total Distance)
 )
+
+model = Pipeline(steps=[
+    ('preprocessor', preprocessor),
+    ('regressor', RandomForestRegressor(n_estimators=100, random_state=42))
+])
+
+model.fit(X_train, y_train)
