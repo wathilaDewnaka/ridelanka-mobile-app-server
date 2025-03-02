@@ -55,3 +55,10 @@ def predict_price(from_city, to_city, vehicle_type, service_type, distance):
 # Example: Predict price for new input
 predicted_price = predict_price('Colombo', 'Gampaha', 'Van', 'School', 30)
 print(f"Predicted Monthly Subscription: Rs {predicted_price:.2f}")
+
+
+end = datetime.now()
+elapsed_time = end - start
+
+minutes, seconds = divmod(elapsed_time.total_seconds(), 60)
+print(f"Time elapsed: {int(minutes)} minutes and {seconds:.2f} seconds")
