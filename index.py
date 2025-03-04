@@ -34,4 +34,4 @@ if __name__ == '__main__':
     if not os.path.exists(model_file):
         pre.trainData()
 
-    app.run()
+    app.run(host="0.0.0.0", port=5000)
