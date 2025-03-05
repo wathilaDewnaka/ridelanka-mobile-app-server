@@ -1,7 +1,5 @@
 from flask import Flask, request, jsonify
-import os
-
-import ml.chat as chat
+import ml.chat
 import ml.getPrice as price
 import ml.predictor as pre
 
@@ -11,7 +9,7 @@ app = Flask(__name__)
 def chat():
     data = request.get_json()
     user_message = data.get("message", "")
-    bot_response = chat.get_chatbot_response(user_message)
+    bot_response = ml.chat.get_chatbot_response(user_message)
     return jsonify({"response": bot_response})
 
 
@@ -27,11 +25,4 @@ def predict():
 
 
 if __name__ == '__main__':
-    # Define the path for the model file
-    model_file = "trained_model.pkl"
-
-    # Check if the model already exists
-    if not os.path.exists(model_file):
-        pre.trainData()
-
     app.run(host="0.0.0.0", port=5000)

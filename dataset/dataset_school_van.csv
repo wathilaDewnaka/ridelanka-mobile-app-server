@@ -1,241 +1,2001 @@
-From City,To City,Vehicle Type,Service Type,Total Distance (km),Monthly Subscription (Rs)
-Kollupitiya,Nugegoda,Bus,School,23,8142
-Kollupitiya,Maharagama,Van,School,9,5031
-Nugegoda,Pettah,Van,School,14,7266
-Nugegoda,Pettah,Car,Private Hire,30,15630
-Maharagama,Kollupitiya,Three-Wheeler,Private Hire,10,3730
-Bambalapitiya,Nugegoda,Car,School,43,19823
-Maharagama,Nugegoda,Mini Bus,Staff,16,6304
-Kollupitiya,Bambalapitiya,Three-Wheeler,Private Hire,44,14212
-Kollupitiya,Maharagama,Van,Staff,38,19114
-Bambalapitiya,Maharagama,Bus,School,45,17595
-Kollupitiya,Bambalapitiya,Car,School,10,3300
-Nugegoda,Bambalapitiya,Mini Bus,Staff,32,15072
-Pettah,Bambalapitiya,Three-Wheeler,Private Hire,36,18648
-Pettah,Nugegoda,Bus,Private Hire,8,3448
-Bambalapitiya,Maharagama,Car,Staff,19,6042
-Kollupitiya,Pettah,Van,Staff,41,18573
-Bambalapitiya,Nugegoda,Three-Wheeler,School,31,16027
-Bambalapitiya,Pettah,Mini Bus,Private Hire,24,8352
-Pettah,Bambalapitiya,Van,Staff,11,5511
-Nugegoda,Kollupitiya,Van,Staff,17,6953
-Bambalapitiya,Kollupitiya,Van,School,47,26414
-Maharagama,Bambalapitiya,Van,Private Hire,49,16758
-Nugegoda,Maharagama,Car,Private Hire,10,5970
-Bambalapitiya,Nugegoda,Car,Staff,14,6216
-Bambalapitiya,Kollupitiya,Van,School,15,6540
-Maharagama,Nugegoda,Van,School,37,18537
-Kollupitiya,Bambalapitiya,Van,School,8,3464
-Kollupitiya,Nugegoda,Bus,Private Hire,27,15255
-Bambalapitiya,Maharagama,Three-Wheeler,Private Hire,43,18103
-Bambalapitiya,Kollupitiya,Mini Bus,Staff,50,20350
-Bambalapitiya,Pettah,Car,Private Hire,5,1995
-Maharagama,Pettah,Mini Bus,Private Hire,50,22200
-Kollupitiya,Pettah,Bus,Staff,22,10120
-Kollupitiya,Bambalapitiya,Three-Wheeler,School,7,2499
-Bambalapitiya,Pettah,Van,Private Hire,14,5782
-Bambalapitiya,Kollupitiya,Three-Wheeler,Private Hire,25,13000
-Nugegoda,Kollupitiya,Mini Bus,Private Hire,33,18117
-Bambalapitiya,Pettah,Mini Bus,Staff,31,12276
-Bambalapitiya,Pettah,Mini Bus,Private Hire,19,8151
-Bambalapitiya,Kollupitiya,Three-Wheeler,School,6,2076
-Nugegoda,Maharagama,Van,Staff,28,9156
-Nugegoda,Pettah,Mini Bus,Private Hire,23,12029
-Bambalapitiya,Nugegoda,Van,Private Hire,13,4784
-Pettah,Bambalapitiya,Van,Staff,24,8328
-Pettah,Kollupitiya,Mini Bus,School,40,13200
-Bambalapitiya,Nugegoda,Bus,Private Hire,21,9030
-Nugegoda,Pettah,Mini Bus,Staff,48,25248
-Nugegoda,Kollupitiya,Three-Wheeler,School,35,15960
-Bambalapitiya,Nugegoda,Three-Wheeler,Staff,16,6736
-Nugegoda,Bambalapitiya,Bus,Private Hire,45,16515
-Bambalapitiya,Pettah,Three-Wheeler,Private Hire,21,8358
-Nugegoda,Maharagama,Three-Wheeler,School,20,9960
-Bambalapitiya,Maharagama,Three-Wheeler,Private Hire,23,8349
-Maharagama,Bambalapitiya,Mini Bus,School,20,7500
-Kollupitiya,Pettah,Bus,Staff,31,14012
-Kollupitiya,Nugegoda,Van,School,33,18315
-Bambalapitiya,Kollupitiya,Car,Private Hire,47,16403
-Bambalapitiya,Kollupitiya,Car,Staff,22,9284
-Bambalapitiya,Kollupitiya,Mini Bus,Private Hire,19,7239
-Nugegoda,Maharagama,Three-Wheeler,Staff,39,14781
-Bambalapitiya,Pettah,Bus,Staff,6,3366
-Nugegoda,Kollupitiya,Bus,School,12,4308
-Maharagama,Pettah,Three-Wheeler,School,28,11816
-Pettah,Bambalapitiya,Car,School,32,13312
-Bambalapitiya,Nugegoda,Mini Bus,Staff,45,25335
-Bambalapitiya,Pettah,Car,School,23,12466
-Bambalapitiya,Nugegoda,Van,School,46,27278
-Kollupitiya,Nugegoda,Van,Staff,24,13416
-Maharagama,Nugegoda,Car,Staff,26,12402
-Pettah,Kollupitiya,Car,School,21,9996
-Maharagama,Kollupitiya,Three-Wheeler,Staff,18,8118
-Nugegoda,Bambalapitiya,Car,School,9,2925
-Kollupitiya,Bambalapitiya,Three-Wheeler,Staff,10,3660
-Maharagama,Kollupitiya,Van,Staff,22,9680
-Bambalapitiya,Maharagama,Car,Staff,24,13512
-Nugegoda,Bambalapitiya,Mini Bus,School,47,26931
-Bambalapitiya,Maharagama,Van,School,26,7930
-Kollupitiya,Nugegoda,Bus,Private Hire,6,3258
-Nugegoda,Pettah,Van,School,21,11214
-Bambalapitiya,Nugegoda,Bus,School,49,16415
-Bambalapitiya,Maharagama,Van,Private Hire,13,5590
-Bambalapitiya,Nugegoda,Three-Wheeler,Staff,30,14040
-Pettah,Maharagama,Bus,School,47,17672
-Pettah,Kollupitiya,Van,Private Hire,13,7410
-Nugegoda,Maharagama,Van,Private Hire,32,18624
-Pettah,Nugegoda,Mini Bus,Private Hire,44,21428
-Maharagama,Pettah,Three-Wheeler,Private Hire,48,20064
-Bambalapitiya,Nugegoda,Bus,Staff,11,3916
-Maharagama,Nugegoda,Bus,School,23,13570
-Maharagama,Bambalapitiya,Mini Bus,School,24,12696
-Pettah,Bambalapitiya,Mini Bus,School,29,15370
-Nugegoda,Maharagama,Car,Private Hire,5,2285
-Kollupitiya,Pettah,Car,School,47,18189
-Nugegoda,Maharagama,Van,Staff,15,6765
-Nugegoda,Kollupitiya,Bus,Private Hire,48,22848
-Kollupitiya,Bambalapitiya,Three-Wheeler,Staff,28,16016
-Pettah,Kollupitiya,Van,Staff,27,11097
-Bambalapitiya,Pettah,Car,Private Hire,6,2688
-Pettah,Kollupitiya,Three-Wheeler,Private Hire,35,16380
-Bambalapitiya,Kollupitiya,Car,Staff,15,6840
-Nugegoda,Pettah,Van,Staff,11,5632
-Maharagama,Pettah,Three-Wheeler,Private Hire,20,10320
-Nugegoda,Maharagama,Three-Wheeler,Staff,9,3942
-Bambalapitiya,Maharagama,Bus,School,47,26696
-Kollupitiya,Maharagama,Car,Private Hire,25,13700
-Maharagama,Bambalapitiya,Three-Wheeler,School,42,24864
-Kollupitiya,Nugegoda,Mini Bus,School,26,14040
-Maharagama,Pettah,Bus,School,33,10494
-Kollupitiya,Pettah,Van,Staff,38,12844
-Bambalapitiya,Nugegoda,Three-Wheeler,School,43,19178
-Pettah,Kollupitiya,Three-Wheeler,Staff,32,14816
-Kollupitiya,Nugegoda,Mini Bus,Private Hire,43,21887
-Nugegoda,Bambalapitiya,Van,Staff,15,7710
-Nugegoda,Bambalapitiya,Mini Bus,Private Hire,26,10010
-Maharagama,Bambalapitiya,Bus,Staff,11,4378
-Pettah,Maharagama,Car,School,37,14874
-Pettah,Bambalapitiya,Van,Staff,26,9126
-Nugegoda,Kollupitiya,Mini Bus,Staff,49,27930
-Bambalapitiya,Pettah,Three-Wheeler,Private Hire,46,23184
-Bambalapitiya,Nugegoda,Three-Wheeler,Staff,33,15906
-Bambalapitiya,Kollupitiya,Mini Bus,Private Hire,46,17112
-Bambalapitiya,Pettah,Mini Bus,Staff,44,23012
-Kollupitiya,Nugegoda,Mini Bus,Private Hire,20,6000
-Pettah,Kollupitiya,Mini Bus,Staff,27,15795
-Bambalapitiya,Maharagama,Three-Wheeler,School,11,4499
-Nugegoda,Maharagama,Car,Private Hire,20,8680
-Maharagama,Bambalapitiya,Three-Wheeler,Private Hire,50,21850
-Bambalapitiya,Kollupitiya,Three-Wheeler,School,39,22308
-Nugegoda,Pettah,Three-Wheeler,Private Hire,19,7790
-Nugegoda,Maharagama,Mini Bus,School,30,12180
-Nugegoda,Maharagama,Car,Staff,25,8725
-Kollupitiya,Maharagama,Van,Private Hire,40,23200
-Nugegoda,Maharagama,Mini Bus,Private Hire,29,11571
-Nugegoda,Pettah,Bus,School,33,11814
-Bambalapitiya,Kollupitiya,Car,Private Hire,38,13262
-Kollupitiya,Bambalapitiya,Bus,School,29,15660
-Kollupitiya,Bambalapitiya,Bus,School,29,14935
-Nugegoda,Kollupitiya,Bus,School,37,16946
-Maharagama,Bambalapitiya,Car,School,5,1895
-Pettah,Kollupitiya,Three-Wheeler,Staff,24,13608
-Nugegoda,Bambalapitiya,Van,Private Hire,9,2727
-Maharagama,Kollupitiya,Bus,Staff,29,14152
-Pettah,Bambalapitiya,Three-Wheeler,Staff,48,16800
-Pettah,Maharagama,Three-Wheeler,Staff,48,15072
-Pettah,Kollupitiya,Car,School,23,12144
-Pettah,Bambalapitiya,Bus,Staff,20,6780
-Nugegoda,Pettah,Three-Wheeler,Private Hire,6,2082
-Maharagama,Bambalapitiya,Mini Bus,Private Hire,40,17680
-Kollupitiya,Bambalapitiya,Van,Private Hire,20,9900
-Bambalapitiya,Maharagama,Car,Private Hire,46,15732
-Nugegoda,Maharagama,Mini Bus,School,48,25824
-Nugegoda,Maharagama,Car,Private Hire,5,2240
-Nugegoda,Kollupitiya,Van,Staff,19,9975
-Pettah,Nugegoda,Mini Bus,Private Hire,48,16752
-Pettah,Bambalapitiya,Van,School,29,12180
-Maharagama,Nugegoda,Car,Private Hire,13,4615
-Pettah,Nugegoda,Van,Staff,14,8148
-Bambalapitiya,Nugegoda,Car,Staff,11,5324
-Kollupitiya,Pettah,Car,School,35,19880
-Bambalapitiya,Kollupitiya,Car,School,42,23394
-Bambalapitiya,Pettah,Van,Staff,37,21275
-Maharagama,Kollupitiya,Bus,Staff,30,10110
-Maharagama,Pettah,Car,Staff,45,26460
-Bambalapitiya,Pettah,Bus,School,30,9300
-Pettah,Kollupitiya,Car,School,10,3790
-Pettah,Kollupitiya,Van,School,36,11160
-Nugegoda,Kollupitiya,Bus,School,38,16264
-Bambalapitiya,Nugegoda,Mini Bus,Staff,5,2780
-Kollupitiya,Nugegoda,Car,Staff,8,3776
-Maharagama,Bambalapitiya,Van,School,45,25965
-Kollupitiya,Nugegoda,Three-Wheeler,Staff,46,16330
-Kollupitiya,Maharagama,Van,Staff,12,5844
-Bambalapitiya,Kollupitiya,Mini Bus,Staff,46,17618
-Kollupitiya,Pettah,Bus,Staff,30,14370
-Pettah,Maharagama,Mini Bus,Staff,36,16920
-Pettah,Maharagama,Bus,School,21,9009
-Kollupitiya,Bambalapitiya,Van,School,5,2520
-Nugegoda,Kollupitiya,Three-Wheeler,Staff,47,19129
-Nugegoda,Maharagama,Mini Bus,Staff,32,9632
-Bambalapitiya,Nugegoda,Mini Bus,School,35,13545
-Maharagama,Bambalapitiya,Car,Staff,28,15456
-Kollupitiya,Pettah,Bus,Private Hire,32,14656
-Nugegoda,Maharagama,Bus,School,24,11904
-Bambalapitiya,Maharagama,Car,School,22,7942
-Nugegoda,Bambalapitiya,Bus,Private Hire,32,18592
-Pettah,Nugegoda,Mini Bus,Private Hire,11,5566
-Pettah,Nugegoda,Bus,Staff,23,8096
-Pettah,Bambalapitiya,Three-Wheeler,Staff,31,17608
-Maharagama,Bambalapitiya,Van,Private Hire,39,21177
-Nugegoda,Pettah,Car,Private Hire,8,3120
-Nugegoda,Bambalapitiya,Mini Bus,Private Hire,47,26226
-Kollupitiya,Maharagama,Van,School,12,4044
-Kollupitiya,Bambalapitiya,Three-Wheeler,School,41,18040
-Nugegoda,Pettah,Bus,Staff,21,7224
-Pettah,Maharagama,Van,Private Hire,14,8344
-Kollupitiya,Nugegoda,Mini Bus,Staff,6,3576
-Bambalapitiya,Kollupitiya,Three-Wheeler,Staff,47,18847
-Maharagama,Nugegoda,Van,Staff,6,3168
-Pettah,Kollupitiya,Bus,School,46,20746
-hool,38,18924
-Kadawatha,Wattala,Van,Staff,20,10680
-Ja-Ela,Negombo,Van,Private Hire,18,10314
-Kadawatha,Wattala,Car,School,21,8505
-Ja-Ela,Kiribathgoda,Mini Bus,Staff,42,16128
-Wattala,Ja-Ela,Mini Bus,Staff,11,5665
-Ja-Ela,Kadawatha,Bus,Staff,25,12425
-Wattala,Negombo,Car,Staff,34,10608
-Ja-Ela,Wattala,Bus,Private Hire,39,12168
-Negombo,Kiribathgoda,Car,Staff,49,22687
-Kiribathgoda,Negombo,Mini Bus,Private Hire,48,16272
-Kadawatha,Ja-Ela,Van,Private Hire,17,9554
-Ja-Ela,Wattala,Car,Staff,47,21996
-Kadawatha,Wattala,Mini Bus,School,9,3330
-Kiribathgoda,Ja-Ela,Bus,Private Hire,16,5312
-Kiribathgoda,Negombo,Van,Staff,42,23436
-Wattala,Kiribathgoda,Car,Private Hire,31,9858
-Ja-Ela,Kadawatha,Bus,Private Hire,25,9050
-Negombo,Kadawatha,Mini Bus,Staff,8,3544
-Ja-Ela,Negombo,Car,Staff,46,19044
-Wattala,Ja-Ela,Mini Bus,Staff,35,20790
-Negombo,Ja-Ela,Three-Wheeler,Staff,39,12051
-Wattala,Ja-Ela,Three-Wheeler,School,38,13376
-Negombo,Wattala,Mini Bus,Private Hire,50,19500
-Ja-Ela,Wattala,Car,Private Hire,16,8160
-Wattala,Negombo,Three-Wheeler,Staff,25,7525
-Negombo,Ja-Ela,Bus,Staff,39,12324
-Kadawatha,Wattala,Mini Bus,Private Hire,12,5436
-Wattala,Ja-Ela,Bus,Staff,24,11808
-Negombo,Ja-Ela,Three-Wheeler,Private Hire,8,4784
-Wattala,Negombo,Van,School,48,21888
-Ja-Ela,Kadawatha,Car,Private Hire,5,1575
-Wattala,Kadawatha,Three-Wheeler,Staff,10,5340
-Wattala,Kadawatha,Bus,Private Hire,49,19747
-Negombo,Kiribathgoda,Car,Private Hire,41,20541
-Ja-Ela,Negombo,Three-Wheeler,Private Hire,14,5684
-Negombo,Kadawatha,Mini Bus,Private Hire,38,11514
-Negombo,Ja-Ela,Mini Bus,School,45,15705
-Wattala,Ja-Ela,Bus,Staff,50,23950
-Kiribathgoda,Negombo,Van,Private Hire,48,20016
-Ja-Ela,Kadawatha,Bus,Staff,25,10075
+﻿From City,To City,Vehicle Type,Service Type,Total Distance (km),Monthly Subscription (Rs)
+Batticaloa,Bandarawela,Van,School,7,3038
+Negombo,Trincomalee,Van,School,19,11647
+Kandy,Kurunegala,Bus,School,19,5757
+Chilaw,Trincomalee,Van,School,24,16176
+Kandy,Badulla,Van,Staff,44,20000
+Matara,Kurunegala,Bus,Staff,27,11961
+Kurunegala,Jaffna,Bus,Staff,22,10978
+Matara,Gampaha,Bus,School,10,4790
+Puttalam,Jaffna,Van,School,13,6370
+Anuradhapura,Gampaha,Bus,School,7,2373
+Bandarawela,Batticaloa,Van,School,42,18438
+Bandarawela,Badulla,Bus,Staff,38,15542
+Kandy,Kurunegala,Bus,School,7,3402
+Gampaha,Kurunegala,Van,Staff,29,13572
+Nuwara Eliya,Jaffna,Van,School,18,7308
+Trincomalee,Galle,Bus,School,26,9672
+Colombo,Hambantota,Bus,School,10,4760
+Hambantota,Jaffna,Van,School,12,5832
+Trincomalee,Polonnaruwa,Bus,Staff,35,15330
+Jaffna,Polonnaruwa,Van,Staff,12,8376
+Batticaloa,Jaffna,Bus,Staff,20,9920
+Polonnaruwa,Colombo,Bus,School,18,5940
+Badulla,Kurunegala,Van,School,21,14049
+Anuradhapura,Puttalam,Van,Staff,19,8740
+Negombo,Kandy,Bus,School,6,2808
+Ratnapura,Colombo,Van,Staff,32,19296
+Hambantota,Kurunegala,Bus,Staff,18,7884
+Badulla,Kurunegala,Van,Staff,46,20000
+Kandy,Ratnapura,Bus,Staff,41,19106
+Colombo,Badulla,Van,Staff,47,20000
+Gampaha,Batticaloa,Van,Staff,30,19920
+Anuradhapura,Kalutara,Van,School,21,12474
+Kalutara,Nuwara Eliya,Van,School,24,14448
+Bandarawela,Kandy,Van,School,17,7208
+Galle,Nuwara Eliya,Bus,School,41,14637
+Gampaha,Kalutara,Van,School,30,15450
+Puttalam,Matara,Van,Staff,37,20000
+Bandarawela,Galle,Bus,School,10,3580
+Trincomalee,Batticaloa,Van,School,18,12006
+Polonnaruwa,Matara,Van,Staff,48,20000
+Kandy,Ratnapura,Van,School,29,13804
+Polonnaruwa,Gampaha,Bus,Staff,39,15444
+Puttalam,Kandy,Van,School,28,11984
+Batticaloa,Colombo,Bus,School,40,12960
+Gampaha,Jaffna,Bus,School,25,7750
+Negombo,Hambantota,Van,Staff,13,8632
+Kurunegala,Badulla,Van,Staff,43,20000
+Trincomalee,Nuwara Eliya,Van,School,10,6620
+Kandy,Jaffna,Van,Staff,35,20000
+Ratnapura,Kandy,Bus,Staff,45,16110
+Kalutara,Puttalam,Bus,School,28,10864
+Kalutara,Chilaw,Van,School,26,10790
+Puttalam,Ratnapura,Van,Staff,40,20000
+Kandy,Colombo,Van,Staff,22,10670
+Jaffna,Kurunegala,Van,Staff,18,8676
+Negombo,Hambantota,Van,School,29,14442
+Chilaw,Anuradhapura,Bus,School,5,2330
+Hambantota,Puttalam,Bus,School,46,14996
+Jaffna,Polonnaruwa,Van,School,26,16302
+Puttalam,Bandarawela,Van,Staff,12,6948
+Kalutara,Jaffna,Van,School,33,15411
+Batticaloa,Matara,Van,Staff,28,12152
+Polonnaruwa,Gampaha,Van,Staff,35,14595
+Badulla,Negombo,Van,School,32,13760
+Kurunegala,Puttalam,Van,Staff,45,20000
+Batticaloa,Kurunegala,Bus,School,13,4225
+Gampaha,Jaffna,Van,School,32,20000
+Hambantota,Badulla,Bus,School,34,16864
+Kalutara,Negombo,Bus,School,24,7728
+Nuwara Eliya,Badulla,Van,Staff,40,20000
+Galle,Hambantota,Van,Staff,14,7854
+Kalutara,Badulla,Bus,School,39,15288
+Bandarawela,Batticaloa,Bus,School,8,2968
+Matara,Trincomalee,Bus,Staff,50,15850
+Bandarawela,Anuradhapura,Bus,School,42,14826
+Trincomalee,Jaffna,Van,Staff,26,12558
+Kandy,Galle,Bus,School,27,9774
+Colombo,Chilaw,Bus,School,8,3816
+Badulla,Nuwara Eliya,Bus,School,26,9490
+Kandy,Batticaloa,Van,Staff,39,17862
+Anuradhapura,Nuwara Eliya,Van,School,27,12204
+Matara,Ratnapura,Bus,School,24,8712
+Gampaha,Kalutara,Van,School,28,15736
+Gampaha,Badulla,Van,Staff,32,13600
+Jaffna,Bandarawela,Van,School,50,20000
+Negombo,Galle,Van,School,23,12834
+Kurunegala,Jaffna,Bus,Staff,48,15840
+Negombo,Kandy,Bus,Staff,5,2240
+Jaffna,Ratnapura,Van,Staff,46,20000
+Matara,Trincomalee,Bus,School,10,3140
+Galle,Kalutara,Bus,School,34,16660
+Colombo,Matara,Van,Staff,25,11425
+Ratnapura,Gampaha,Van,School,46,20000
+Ratnapura,Gampaha,Van,Staff,40,20000
+Jaffna,Ratnapura,Bus,School,36,17208
+Hambantota,Kalutara,Van,School,28,14924
+Batticaloa,Kandy,Bus,School,32,14368
+Polonnaruwa,Kalutara,Bus,Staff,26,13000
+Chilaw,Batticaloa,Bus,School,49,20000
+Colombo,Badulla,Bus,Staff,28,12348
+Puttalam,Kurunegala,Van,Staff,25,12300
+Kalutara,Gampaha,Bus,School,16,5008
+Kandy,Matara,Bus,Staff,44,14432
+Kalutara,Bandarawela,Bus,School,39,18447
+Ratnapura,Bandarawela,Van,Staff,39,16458
+Trincomalee,Bandarawela,Bus,School,18,8136
+Gampaha,Nuwara Eliya,Van,Staff,19,8151
+Negombo,Polonnaruwa,Bus,Staff,25,7650
+Negombo,Kandy,Bus,Staff,11,5060
+Kalutara,Trincomalee,Van,School,36,19440
+Gampaha,Kandy,Bus,School,11,3839
+Gampaha,Kurunegala,Bus,School,50,20000
+Kandy,Chilaw,Bus,Staff,32,14656
+Trincomalee,Negombo,Van,Staff,37,20000
+Chilaw,Gampaha,Bus,Staff,48,19200
+Polonnaruwa,Matara,Bus,School,46,18998
+Trincomalee,Badulla,Bus,Staff,43,18060
+Ratnapura,Galle,Bus,Staff,48,18192
+Kandy,Anuradhapura,Van,Staff,12,7200
+Ratnapura,Gampaha,Van,Staff,50,20000
+Galle,Kalutara,Van,School,28,15624
+Negombo,Bandarawela,Bus,School,43,15523
+Jaffna,Colombo,Bus,Staff,31,9517
+Trincomalee,Bandarawela,Van,School,14,8498
+Gampaha,Badulla,Van,School,11,4818
+Batticaloa,Colombo,Bus,Staff,11,5423
+Ratnapura,Batticaloa,Van,School,17,9877
+Badulla,Negombo,Van,School,31,14539
+Puttalam,Polonnaruwa,Bus,Staff,29,10266
+Colombo,Nuwara Eliya,Van,School,18,11034
+Trincomalee,Kandy,Van,Staff,15,7575
+Trincomalee,Kandy,Bus,School,9,2934
+Kalutara,Polonnaruwa,Bus,School,41,12546
+Batticaloa,Kurunegala,Bus,Staff,11,5478
+Ratnapura,Batticaloa,Van,Staff,34,20000
+Nuwara Eliya,Colombo,Bus,Staff,34,10710
+Ratnapura,Trincomalee,Van,School,31,18352
+Galle,Negombo,Bus,School,49,20000
+Kandy,Ratnapura,Bus,Staff,17,6579
+Polonnaruwa,Gampaha,Bus,Staff,32,14304
+Bandarawela,Matara,Van,Staff,25,15950
+Trincomalee,Hambantota,Bus,Staff,25,10775
+Hambantota,Batticaloa,Van,School,28,17416
+Puttalam,Trincomalee,Van,Staff,15,7410
+Polonnaruwa,Anuradhapura,Bus,School,33,13563
+Matara,Trincomalee,Van,School,14,9716
+Hambantota,Colombo,Van,School,20,12340
+Galle,Ratnapura,Bus,School,49,20000
+Ratnapura,Hambantota,Bus,Staff,30,14280
+Nuwara Eliya,Negombo,Van,Staff,43,20000
+Negombo,Jaffna,Bus,School,42,17304
+Anuradhapura,Hambantota,Van,Staff,17,9214
+Galle,Badulla,Van,School,23,11247
+Colombo,Bandarawela,Van,School,23,11500
+Nuwara Eliya,Batticaloa,Van,School,39,20000
+Gampaha,Badulla,Bus,Staff,39,15327
+Matara,Bandarawela,Van,Staff,6,2520
+Badulla,Jaffna,Bus,Staff,15,6825
+Nuwara Eliya,Colombo,Bus,School,46,15180
+Batticaloa,Jaffna,Van,Staff,42,17682
+Bandarawela,Anuradhapura,Bus,School,5,2130
+Nuwara Eliya,Ratnapura,Van,School,5,2615
+Badulla,Jaffna,Van,School,33,15279
+Trincomalee,Galle,Van,School,29,12412
+Badulla,Nuwara Eliya,Bus,Staff,22,6798
+Nuwara Eliya,Puttalam,Van,School,42,20000
+Gampaha,Chilaw,Bus,Staff,43,20000
+Hambantota,Kalutara,Bus,Staff,49,20000
+Kalutara,Kandy,Van,School,19,11324
+Nuwara Eliya,Ratnapura,Bus,Staff,46,17848
+Hambantota,Nuwara Eliya,Bus,School,17,6460
+Kalutara,Chilaw,Bus,Staff,16,5232
+Badulla,Gampaha,Bus,School,27,10827
+Ratnapura,Gampaha,Bus,Staff,43,20000
+Jaffna,Trincomalee,Bus,Staff,18,7884
+Chilaw,Galle,Bus,Staff,19,6688
+Matara,Bandarawela,Van,School,42,20000
+Trincomalee,Nuwara Eliya,Bus,School,25,8200
+Badulla,Anuradhapura,Van,Staff,48,20000
+Polonnaruwa,Chilaw,Van,Staff,5,2805
+Badulla,Anuradhapura,Bus,School,42,19656
+Colombo,Polonnaruwa,Bus,School,49,20000
+Anuradhapura,Badulla,Van,School,23,15042
+Kandy,Ratnapura,Van,Staff,37,20000
+Trincomalee,Negombo,Van,Staff,17,9877
+Negombo,Anuradhapura,Van,School,6,3222
+Anuradhapura,Kandy,Van,School,21,10941
+Bandarawela,Hambantota,Van,Staff,45,20000
+Batticaloa,Kalutara,Bus,School,42,20000
+Hambantota,Chilaw,Van,School,39,20000
+Hambantota,Galle,Van,Staff,23,16008
+Anuradhapura,Matara,Bus,Staff,15,6870
+Badulla,Hambantota,Bus,Staff,44,20000
+Gampaha,Nuwara Eliya,Bus,Staff,30,9090
+Galle,Puttalam,Bus,Staff,10,4000
+Polonnaruwa,Negombo,Van,Staff,35,20000
+Bandarawela,Batticaloa,Van,Staff,50,20000
+Galle,Kalutara,Bus,School,35,11900
+Colombo,Polonnaruwa,Bus,Staff,20,9860
+Puttalam,Anuradhapura,Bus,Staff,9,3429
+Badulla,Polonnaruwa,Bus,School,48,16560
+Badulla,Chilaw,Van,School,12,5820
+Kandy,Puttalam,Van,School,47,20000
+Bandarawela,Gampaha,Bus,Staff,17,5865
+Kandy,Nuwara Eliya,Van,School,11,7469
+Anuradhapura,Nuwara Eliya,Bus,School,39,14508
+Trincomalee,Kalutara,Bus,School,20,9940
+Polonnaruwa,Trincomalee,Bus,School,40,19000
+Bandarawela,Jaffna,Van,School,24,16488
+Kalutara,Polonnaruwa,Bus,Staff,38,14440
+Matara,Hambantota,Van,School,26,18044
+Batticaloa,Bandarawela,Van,School,6,3546
+Polonnaruwa,Galle,Van,School,46,19596
+Anuradhapura,Trincomalee,Van,Staff,40,19680
+Bandarawela,Puttalam,Bus,School,18,5400
+Galle,Polonnaruwa,Van,Staff,29,18531
+Badulla,Gampaha,Bus,School,16,6336
+Polonnaruwa,Chilaw,Bus,Staff,41,14350
+Nuwara Eliya,Colombo,Van,School,41,20000
+Kurunegala,Gampaha,Van,School,47,19411
+Jaffna,Colombo,Bus,Staff,36,14076
+Kalutara,Badulla,Bus,Staff,40,13240
+Trincomalee,Jaffna,Bus,School,11,5203
+Kalutara,Kandy,Bus,Staff,25,9525
+Hambantota,Kurunegala,Van,Staff,7,2989
+Jaffna,Colombo,Van,School,11,6842
+Colombo,Kandy,Bus,Staff,35,16100
+Gampaha,Polonnaruwa,Bus,School,12,4128
+Ratnapura,Nuwara Eliya,Van,Staff,19,8474
+Nuwara Eliya,Matara,Van,Staff,17,7718
+Trincomalee,Anuradhapura,Van,Staff,32,18720
+Bandarawela,Gampaha,Van,School,37,20000
+Kurunegala,Galle,Van,Staff,10,6840
+Ratnapura,Anuradhapura,Bus,Staff,50,15950
+Galle,Negombo,Van,School,38,20000
+Kalutara,Galle,Bus,School,46,20000
+Matara,Hambantota,Bus,Staff,48,20000
+Galle,Kalutara,Van,School,36,20000
+Kurunegala,Colombo,Van,School,15,6705
+Matara,Gampaha,Van,School,39,19422
+Anuradhapura,Kalutara,Bus,Staff,48,16704
+Batticaloa,Badulla,Van,School,47,20000
+Batticaloa,Polonnaruwa,Bus,Staff,5,2380
+Chilaw,Kalutara,Van,School,32,15904
+Nuwara Eliya,Anuradhapura,Van,School,14,9660
+Polonnaruwa,Bandarawela,Van,School,6,3864
+Gampaha,Anuradhapura,Van,School,50,20000
+Gampaha,Puttalam,Bus,School,33,13629
+Galle,Kurunegala,Bus,School,26,10504
+Matara,Gampaha,Bus,School,5,2085
+Anuradhapura,Kandy,Van,Staff,33,20000
+Trincomalee,Jaffna,Van,School,8,3864
+Ratnapura,Chilaw,Van,School,47,20000
+Puttalam,Matara,Bus,Staff,24,7440
+Anuradhapura,Kandy,Bus,Staff,18,8190
+Jaffna,Polonnaruwa,Bus,School,15,5985
+Galle,Hambantota,Bus,Staff,33,15741
+Negombo,Galle,Van,School,8,5232
+Nuwara Eliya,Badulla,Van,Staff,12,5532
+Nuwara Eliya,Batticaloa,Van,Staff,30,19620
+Matara,Chilaw,Bus,Staff,42,20000
+Matara,Trincomalee,Bus,School,8,3912
+Negombo,Kandy,Bus,School,28,13692
+Polonnaruwa,Negombo,Van,School,38,20000
+Anuradhapura,Kurunegala,Bus,School,41,12341
+Kandy,Jaffna,Bus,Staff,26,9958
+Chilaw,Galle,Bus,School,5,2330
+Kandy,Polonnaruwa,Bus,Staff,22,7436
+Gampaha,Puttalam,Van,School,37,20000
+Ratnapura,Matara,Bus,Staff,50,20000
+Nuwara Eliya,Ratnapura,Van,Staff,40,20000
+Galle,Colombo,Van,Staff,36,20000
+Jaffna,Negombo,Van,Staff,24,14088
+Galle,Jaffna,Bus,Staff,9,3159
+Gampaha,Kandy,Bus,School,24,9072
+Anuradhapura,Matara,Bus,School,28,11200
+Polonnaruwa,Negombo,Bus,Staff,9,4086
+Kalutara,Anuradhapura,Bus,Staff,21,6447
+Puttalam,Chilaw,Van,School,29,17458
+Nuwara Eliya,Anuradhapura,Bus,School,46,15778
+Bandarawela,Trincomalee,Van,Staff,9,5202
+Badulla,Polonnaruwa,Van,School,22,12254
+Badulla,Trincomalee,Van,School,20,11740
+Trincomalee,Kurunegala,Van,Staff,30,16020
+Anuradhapura,Gampaha,Bus,Staff,30,12750
+Batticaloa,Puttalam,Van,Staff,50,20000
+Galle,Batticaloa,Bus,Staff,8,3664
+Jaffna,Galle,Bus,Staff,36,11484
+Nuwara Eliya,Negombo,Van,School,30,16410
+Jaffna,Trincomalee,Bus,Staff,44,18392
+Kalutara,Colombo,Van,Staff,38,20000
+Kurunegala,Kandy,Van,School,38,17594
+Anuradhapura,Kandy,Bus,Staff,34,14858
+Galle,Puttalam,Bus,School,45,20000
+Batticaloa,Matara,Van,Staff,25,13175
+Kalutara,Matara,Van,Staff,29,19401
+Anuradhapura,Gampaha,Bus,Staff,29,12412
+Trincomalee,Negombo,Bus,Staff,37,15170
+Jaffna,Kandy,Bus,Staff,12,3732
+Polonnaruwa,Jaffna,Van,Staff,23,11109
+Galle,Ratnapura,Van,Staff,5,3450
+Colombo,Chilaw,Van,School,21,10290
+Negombo,Ratnapura,Bus,School,14,6594
+Puttalam,Matara,Bus,Staff,32,13728
+Galle,Badulla,Van,School,26,14482
+Kurunegala,Kandy,Bus,School,35,13160
+Bandarawela,Kandy,Bus,School,36,18000
+Colombo,Anuradhapura,Bus,School,25,12075
+Kalutara,Hambantota,Van,School,27,12501
+Ratnapura,Batticaloa,Bus,Staff,8,3736
+Badulla,Kalutara,Van,Staff,34,14212
+Nuwara Eliya,Chilaw,Van,School,14,7672
+Nuwara Eliya,Ratnapura,Van,Staff,12,7404
+Hambantota,Kurunegala,Van,Staff,11,7414
+Nuwara Eliya,Hambantota,Van,Staff,38,19950
+Batticaloa,Kurunegala,Van,Staff,6,4200
+Galle,Kalutara,Van,School,36,16128
+Badulla,Puttalam,Van,School,8,4120
+Badulla,Galle,Van,School,23,11937
+Polonnaruwa,Galle,Bus,School,31,11997
+Ratnapura,Trincomalee,Van,School,7,4207
+Polonnaruwa,Kurunegala,Bus,School,31,14539
+Colombo,Bandarawela,Van,Staff,35,19180
+Polonnaruwa,Kurunegala,Bus,School,24,7464
+Matara,Ratnapura,Bus,School,45,18945
+Ratnapura,Chilaw,Van,School,49,20000
+Nuwara Eliya,Hambantota,Bus,School,21,9009
+Nuwara Eliya,Polonnaruwa,Van,School,17,7973
+Matara,Hambantota,Bus,Staff,9,3330
+Galle,Anuradhapura,Van,Staff,7,4893
+Anuradhapura,Bandarawela,Van,School,33,20000
+Anuradhapura,Puttalam,Van,Staff,39,16965
+Chilaw,Bandarawela,Van,School,36,18648
+Anuradhapura,Kurunegala,Bus,Staff,35,14245
+Jaffna,Kurunegala,Van,Staff,47,20000
+Colombo,Hambantota,Van,Staff,39,20000
+Chilaw,Matara,Bus,School,22,8998
+Anuradhapura,Bandarawela,Van,Staff,13,8294
+Chilaw,Nuwara Eliya,Bus,School,26,8528
+Polonnaruwa,Kandy,Bus,School,34,11152
+Bandarawela,Polonnaruwa,Van,Staff,43,20000
+Colombo,Puttalam,Bus,School,46,16698
+Puttalam,Gampaha,Bus,School,50,17850
+Galle,Kalutara,Bus,Staff,24,9072
+Badulla,Trincomalee,Van,Staff,8,4800
+Hambantota,Badulla,Bus,Staff,18,6462
+Gampaha,Anuradhapura,Van,Staff,29,18154
+Bandarawela,Galle,Bus,School,33,16104
+Batticaloa,Hambantota,Bus,School,7,2877
+Bandarawela,Anuradhapura,Van,Staff,27,11610
+Galle,Gampaha,Bus,School,7,2296
+Polonnaruwa,Kandy,Van,Staff,42,20000
+Nuwara Eliya,Matara,Bus,School,39,15444
+Trincomalee,Puttalam,Van,School,29,16646
+Galle,Kurunegala,Van,School,27,11772
+Colombo,Badulla,Bus,Staff,38,13262
+Kalutara,Batticaloa,Van,School,11,4719
+Negombo,Matara,Bus,Staff,10,3560
+Negombo,Anuradhapura,Bus,School,11,4081
+Jaffna,Matara,Van,School,35,16730
+Badulla,Matara,Bus,Staff,10,4570
+Nuwara Eliya,Trincomalee,Bus,Staff,13,4004
+Badulla,Anuradhapura,Van,Staff,25,13175
+Ratnapura,Bandarawela,Van,School,17,11084
+Bandarawela,Negombo,Van,School,31,17949
+Negombo,Bandarawela,Van,Staff,49,20000
+Negombo,Batticaloa,Van,Staff,30,16560
+Puttalam,Kandy,Bus,Staff,38,16340
+Colombo,Puttalam,Van,Staff,46,20000
+Badulla,Trincomalee,Van,Staff,18,12474
+Puttalam,Jaffna,Bus,Staff,30,10800
+Negombo,Gampaha,Van,School,36,20000
+Gampaha,Negombo,Van,Staff,32,15968
+Negombo,Ratnapura,Van,Staff,25,13650
+Badulla,Jaffna,Van,Staff,49,20000
+Matara,Chilaw,Van,School,25,15700
+Bandarawela,Jaffna,Van,School,50,20000
+Negombo,Bandarawela,Bus,School,32,11552
+Matara,Colombo,Van,School,48,20000
+Batticaloa,Trincomalee,Van,Staff,45,20000
+Polonnaruwa,Kalutara,Bus,School,50,20000
+Puttalam,Badulla,Bus,School,22,10362
+Gampaha,Nuwara Eliya,Van,Staff,41,20000
+Jaffna,Kurunegala,Van,Staff,38,20000
+Anuradhapura,Kurunegala,Bus,Staff,31,9331
+Jaffna,Galle,Bus,Staff,34,13872
+Negombo,Badulla,Van,Staff,11,5137
+Anuradhapura,Puttalam,Van,School,17,10166
+Colombo,Anuradhapura,Bus,Staff,37,16465
+Kurunegala,Polonnaruwa,Van,Staff,17,11662
+Hambantota,Negombo,Bus,School,50,15600
+Nuwara Eliya,Polonnaruwa,Bus,School,29,12122
+Puttalam,Bandarawela,Van,Staff,42,20000
+Kurunegala,Bandarawela,Bus,Staff,18,7128
+Negombo,Hambantota,Van,Staff,23,13708
+Anuradhapura,Hambantota,Bus,Staff,38,13186
+Nuwara Eliya,Gampaha,Van,School,11,5137
+Gampaha,Polonnaruwa,Van,Staff,15,7605
+Badulla,Polonnaruwa,Van,Staff,12,5424
+Kandy,Kalutara,Van,Staff,18,8910
+Gampaha,Matara,Van,School,45,20000
+Hambantota,Anuradhapura,Van,School,23,15939
+Hambantota,Badulla,Van,Staff,10,5610
+Negombo,Anuradhapura,Van,School,21,11340
+Galle,Batticaloa,Bus,School,28,13020
+Matara,Hambantota,Bus,Staff,44,20000
+Kurunegala,Ratnapura,Van,Staff,29,15457
+Batticaloa,Polonnaruwa,Bus,Staff,19,8569
+Ratnapura,Gampaha,Van,Staff,19,12103
+Trincomalee,Polonnaruwa,Van,School,9,5238
+Batticaloa,Anuradhapura,Bus,Staff,14,6916
+Chilaw,Nuwara Eliya,Van,School,8,3944
+Matara,Gampaha,Bus,Staff,28,12460
+Kandy,Gampaha,Bus,Staff,22,7700
+Galle,Trincomalee,Van,School,10,4720
+Nuwara Eliya,Colombo,Bus,School,44,18480
+Hambantota,Trincomalee,Bus,School,9,3060
+Batticaloa,Polonnaruwa,Van,School,5,2555
+Ratnapura,Nuwara Eliya,Van,School,23,15778
+Bandarawela,Negombo,Van,School,42,20000
+Bandarawela,Ratnapura,Bus,School,29,12557
+Polonnaruwa,Batticaloa,Bus,School,50,15300
+Trincomalee,Badulla,Van,Staff,19,8360
+Badulla,Kandy,Van,Staff,25,16800
+Kandy,Trincomalee,Bus,School,7,2618
+Ratnapura,Kalutara,Bus,School,35,12425
+Kurunegala,Chilaw,Bus,School,10,4000
+Trincomalee,Badulla,Van,Staff,20,12800
+Kurunegala,Anuradhapura,Bus,School,15,5295
+Hambantota,Puttalam,Van,School,49,20000
+Puttalam,Gampaha,Van,Staff,7,4830
+Puttalam,Bandarawela,Van,School,42,20000
+Galle,Gampaha,Bus,School,42,18900
+Matara,Bandarawela,Bus,Staff,26,9022
+Matara,Ratnapura,Van,School,32,19648
+Anuradhapura,Galle,Bus,School,8,3680
+Jaffna,Polonnaruwa,Bus,School,38,13984
+Negombo,Nuwara Eliya,Bus,School,18,6768
+Ratnapura,Batticaloa,Bus,Staff,17,6647
+Ratnapura,Polonnaruwa,Bus,Staff,39,14937
+Negombo,Batticaloa,Van,School,32,13504
+Puttalam,Badulla,Van,Staff,9,6300
+Galle,Kurunegala,Bus,Staff,26,12948
+Badulla,Batticaloa,Van,School,40,20000
+Negombo,Badulla,Van,Staff,22,14850
+Jaffna,Hambantota,Van,Staff,49,20000
+Bandarawela,Kandy,Bus,School,25,10200
+Galle,Badulla,Van,School,27,13257
+Matara,Trincomalee,Van,School,47,19928
+Hambantota,Kalutara,Bus,School,18,6246
+Galle,Polonnaruwa,Bus,Staff,48,15696
+Polonnaruwa,Chilaw,Bus,School,32,12352
+Gampaha,Trincomalee,Van,School,6,2802
+Jaffna,Batticaloa,Bus,Staff,35,10745
+Gampaha,Kurunegala,Van,School,17,10336
+Jaffna,Colombo,Bus,Staff,15,6195
+Chilaw,Negombo,Van,School,9,5562
+Matara,Gampaha,Bus,School,41,13366
+Badulla,Bandarawela,Bus,School,38,11552
+Nuwara Eliya,Anuradhapura,Bus,Staff,38,15162
+Trincomalee,Colombo,Bus,School,28,8820
+Polonnaruwa,Kandy,Van,School,29,13166
+Jaffna,Kurunegala,Bus,Staff,26,10998
+Trincomalee,Kurunegala,Van,School,11,7062
+Trincomalee,Matara,Bus,Staff,39,17277
+Kandy,Anuradhapura,Bus,Staff,47,15698
+Batticaloa,Trincomalee,Bus,School,21,9618
+Ratnapura,Badulla,Van,Staff,28,11900
+Bandarawela,Kandy,Bus,Staff,14,4578
+Colombo,Kandy,Bus,Staff,7,3374
+Polonnaruwa,Anuradhapura,Van,School,39,20000
+Ratnapura,Jaffna,Bus,School,45,20000
+Anuradhapura,Kurunegala,Van,Staff,29,14152
+Batticaloa,Negombo,Bus,Staff,21,7854
+Jaffna,Kurunegala,Van,Staff,11,6941
+Kalutara,Nuwara Eliya,Bus,Staff,37,11914
+Gampaha,Anuradhapura,Bus,Staff,31,14229
+Batticaloa,Kurunegala,Van,School,24,9888
+Kalutara,Anuradhapura,Van,Staff,44,20000
+Galle,Puttalam,Bus,School,30,13920
+Kandy,Polonnaruwa,Bus,Staff,50,20000
+Kurunegala,Gampaha,Bus,School,11,5027
+Jaffna,Trincomalee,Van,School,11,6842
+Gampaha,Galle,Bus,School,41,13366
+Polonnaruwa,Puttalam,Bus,Staff,22,7722
+Polonnaruwa,Gampaha,Bus,School,25,7750
+Kandy,Gampaha,Van,Staff,40,20000
+Kurunegala,Gampaha,Bus,School,45,14895
+Kurunegala,Kalutara,Bus,Staff,41,15375
+Puttalam,Hambantota,Bus,Staff,27,9747
+Hambantota,Bandarawela,Bus,Staff,5,2130
+Jaffna,Bandarawela,Bus,School,30,13770
+Anuradhapura,Kalutara,Bus,School,12,5004
+Kandy,Badulla,Van,School,33,20000
+Nuwara Eliya,Colombo,Van,School,15,6315
+Puttalam,Galle,Van,School,22,13200
+Kalutara,Matara,Bus,Staff,39,13572
+Hambantota,Puttalam,Van,School,22,10582
+Badulla,Puttalam,Van,Staff,46,20000
+Colombo,Galle,Bus,Staff,23,10580
+Polonnaruwa,Bandarawela,Bus,School,19,5700
+Jaffna,Colombo,Van,Staff,17,8925
+Bandarawela,Puttalam,Bus,Staff,30,12300
+Batticaloa,Puttalam,Bus,School,11,4114
+Kandy,Kalutara,Van,Staff,42,20000
+Bandarawela,Chilaw,Van,Staff,33,20000
+Matara,Batticaloa,Van,School,46,20000
+Colombo,Matara,Bus,Staff,8,3976
+Kandy,Anuradhapura,Bus,School,47,20000
+Negombo,Hambantota,Bus,School,30,11940
+Nuwara Eliya,Batticaloa,Van,School,6,3312
+Hambantota,Puttalam,Van,Staff,32,13728
+Ratnapura,Nuwara Eliya,Bus,Staff,32,15872
+Chilaw,Badulla,Bus,School,42,15876
+Polonnaruwa,Galle,Van,School,30,18600
+Matara,Badulla,Bus,School,11,4169
+Anuradhapura,Badulla,Bus,School,23,11247
+Kandy,Nuwara Eliya,Van,School,47,19176
+Gampaha,Batticaloa,Van,School,26,12558
+Batticaloa,Colombo,Bus,Staff,33,11121
+Polonnaruwa,Batticaloa,Bus,School,43,15695
+Colombo,Puttalam,Bus,Staff,12,4800
+Kalutara,Hambantota,Van,School,21,12936
+Anuradhapura,Kurunegala,Bus,School,24,8736
+Kandy,Puttalam,Van,Staff,15,10035
+Ratnapura,Kandy,Van,Staff,23,10626
+Colombo,Kurunegala,Bus,School,45,17955
+Puttalam,Batticaloa,Van,Staff,46,20000
+Negombo,Batticaloa,Bus,Staff,21,9219
+Galle,Negombo,Van,Staff,15,7965
+Galle,Kalutara,Bus,Staff,41,12628
+Negombo,Kandy,Bus,School,23,9085
+Jaffna,Puttalam,Van,Staff,8,3552
+Jaffna,Bandarawela,Bus,Staff,50,20000
+Polonnaruwa,Negombo,Van,School,40,18320
+Polonnaruwa,Chilaw,Van,School,31,19220
+Nuwara Eliya,Negombo,Van,School,49,20000
+Colombo,Nuwara Eliya,Van,School,16,7888
+Gampaha,Colombo,Bus,Staff,33,15312
+Batticaloa,Matara,Bus,School,30,14010
+Polonnaruwa,Galle,Bus,School,16,6192
+Trincomalee,Polonnaruwa,Bus,Staff,30,9990
+Matara,Kandy,Bus,Staff,32,14336
+Negombo,Chilaw,Van,School,38,20000
+Galle,Jaffna,Van,Staff,26,16094
+Bandarawela,Puttalam,Van,School,5,2475
+Kalutara,Badulla,Van,School,33,20000
+Negombo,Puttalam,Bus,School,41,14514
+Kandy,Polonnaruwa,Bus,School,11,3971
+Bandarawela,Gampaha,Van,Staff,40,20000
+Hambantota,Colombo,Bus,School,5,2120
+Bandarawela,Jaffna,Bus,Staff,15,5445
+Kandy,Hambantota,Van,Staff,16,9296
+Nuwara Eliya,Kandy,Bus,Staff,11,4092
+Hambantota,Kurunegala,Van,School,35,20000
+Polonnaruwa,Batticaloa,Bus,School,31,13640
+Kurunegala,Bandarawela,Bus,School,10,4750
+Hambantota,Jaffna,Van,School,13,6045
+Ratnapura,Polonnaruwa,Bus,School,45,20000
+Gampaha,Galle,Van,School,23,12857
+Negombo,Badulla,Bus,School,43,14835
+Kandy,Matara,Van,Staff,25,13900
+Chilaw,Nuwara Eliya,Bus,School,21,6321
+Galle,Nuwara Eliya,Van,School,12,6132
+Batticaloa,Hambantota,Van,School,31,15469
+Kurunegala,Matara,Van,Staff,19,9443
+Ratnapura,Batticaloa,Bus,Staff,24,9096
+Kurunegala,Polonnaruwa,Bus,School,13,4914
+Puttalam,Chilaw,Bus,Staff,41,18860
+Chilaw,Kandy,Bus,Staff,10,3560
+Kandy,Trincomalee,Bus,Staff,9,2727
+Jaffna,Badulla,Van,Staff,41,20000
+Ratnapura,Bandarawela,Bus,Staff,32,13120
+Colombo,Negombo,Bus,Staff,30,14820
+Trincomalee,Bandarawela,Van,Staff,9,5607
+Negombo,Puttalam,Van,School,26,14586
+Anuradhapura,Ratnapura,Bus,Staff,17,7429
+Badulla,Trincomalee,Bus,School,16,6624
+Negombo,Trincomalee,Bus,Staff,41,15416
+Negombo,Batticaloa,Van,School,49,20000
+Chilaw,Kandy,Bus,Staff,49,20000
+Galle,Anuradhapura,Bus,School,28,12908
+Chilaw,Hambantota,Bus,School,46,20000
+Trincomalee,Negombo,Bus,School,37,14134
+Kurunegala,Hambantota,Van,School,40,20000
+Bandarawela,Kandy,Bus,Staff,26,7826
+Bandarawela,Hambantota,Van,School,37,19018
+Trincomalee,Bandarawela,Bus,Staff,42,18270
+Jaffna,Nuwara Eliya,Bus,Staff,24,10128
+Kandy,Jaffna,Bus,School,11,4169
+Puttalam,Trincomalee,Bus,School,15,6705
+Anuradhapura,Bandarawela,Bus,School,29,8816
+Kurunegala,Galle,Van,School,23,12512
+Ratnapura,Colombo,Van,Staff,39,18915
+Hambantota,Batticaloa,Van,Staff,48,20000
+Jaffna,Colombo,Bus,Staff,38,13756
+Chilaw,Badulla,Bus,School,7,3185
+Ratnapura,Kandy,Van,Staff,41,20000
+Gampaha,Jaffna,Bus,School,46,16606
+Colombo,Chilaw,Bus,Staff,16,7728
+Jaffna,Batticaloa,Van,School,42,17010
+Nuwara Eliya,Badulla,Bus,School,9,2700
+Negombo,Bandarawela,Van,Staff,48,20000
+Gampaha,Bandarawela,Van,Staff,18,10800
+Kandy,Gampaha,Van,Staff,44,20000
+Puttalam,Colombo,Van,Staff,49,20000
+Batticaloa,Kurunegala,Bus,School,42,15372
+Matara,Kurunegala,Van,Staff,50,20000
+Polonnaruwa,Hambantota,Van,School,41,20000
+Kurunegala,Negombo,Bus,School,50,18150
+Nuwara Eliya,Polonnaruwa,Van,School,10,4650
+Badulla,Colombo,Bus,Staff,7,2996
+Matara,Colombo,Van,Staff,44,20000
+Jaffna,Hambantota,Van,Staff,16,11024
+Trincomalee,Hambantota,Bus,School,45,16560
+Gampaha,Kalutara,Van,School,39,17238
+Negombo,Jaffna,Van,Staff,40,20000
+Ratnapura,Hambantota,Bus,Staff,15,6675
+Jaffna,Ratnapura,Bus,School,9,3204
+Kandy,Polonnaruwa,Van,Staff,33,18183
+Trincomalee,Kandy,Van,School,17,7939
+Kalutara,Colombo,Van,Staff,16,8416
+Kandy,Ratnapura,Bus,Staff,22,10076
+Hambantota,Polonnaruwa,Bus,School,11,5148
+Gampaha,Chilaw,Van,School,43,18017
+Kalutara,Bandarawela,Bus,School,11,3883
+Kandy,Jaffna,Van,Staff,25,13450
+Kalutara,Gampaha,Van,Staff,28,16828
+Kurunegala,Kandy,Van,Staff,12,4992
+Kandy,Hambantota,Van,Staff,24,10440
+Batticaloa,Hambantota,Bus,Staff,39,17472
+Chilaw,Polonnaruwa,Van,Staff,11,6424
+Matara,Chilaw,Van,Staff,34,16184
+Puttalam,Colombo,Bus,School,28,12992
+Hambantota,Colombo,Van,Staff,20,10200
+Kurunegala,Matara,Van,School,6,4176
+Matara,Negombo,Bus,Staff,11,5346
+Ratnapura,Galle,Bus,School,6,2256
+Chilaw,Negombo,Bus,Staff,31,13516
+Kurunegala,Ratnapura,Van,Staff,13,7618
+Badulla,Anuradhapura,Bus,Staff,17,6817
+Colombo,Anuradhapura,Bus,School,9,3132
+Galle,Negombo,Bus,School,48,14976
+Kurunegala,Bandarawela,Van,School,42,19194
+Kalutara,Chilaw,Van,School,7,4494
+Chilaw,Kalutara,Bus,School,34,10438
+Bandarawela,Chilaw,Bus,Staff,5,2080
+Matara,Bandarawela,Van,School,15,7140
+Trincomalee,Jaffna,Bus,Staff,10,4800
+Chilaw,Ratnapura,Bus,Staff,27,11097
+Polonnaruwa,Kandy,Bus,School,50,20000
+Puttalam,Bandarawela,Bus,Staff,47,16826
+Galle,Gampaha,Van,School,26,10608
+Negombo,Nuwara Eliya,Bus,School,17,6035
+Matara,Jaffna,Bus,Staff,32,12864
+Anuradhapura,Galle,Bus,School,17,6579
+Kalutara,Ratnapura,Van,School,11,5478
+Chilaw,Kalutara,Bus,Staff,41,19598
+Matara,Nuwara Eliya,Bus,Staff,48,20000
+Matara,Galle,Bus,Staff,22,9680
+Puttalam,Hambantota,Van,School,8,5568
+Colombo,Nuwara Eliya,Van,Staff,35,20000
+Bandarawela,Badulla,Van,School,26,17992
+Ratnapura,Anuradhapura,Bus,Staff,41,14555
+Nuwara Eliya,Batticaloa,Van,Staff,7,3479
+Bandarawela,Hambantota,Bus,Staff,35,14875
+Polonnaruwa,Kalutara,Bus,School,45,19440
+Batticaloa,Colombo,Van,School,38,19114
+Hambantota,Bandarawela,Bus,Staff,29,13195
+Galle,Kandy,Van,School,23,15065
+Kalutara,Trincomalee,Van,Staff,34,20000
+Kalutara,Polonnaruwa,Van,School,44,18832
+Trincomalee,Kandy,Bus,School,17,6766
+Badulla,Colombo,Bus,School,34,15742
+Hambantota,Bandarawela,Bus,Staff,28,11312
+Matara,Nuwara Eliya,Van,Staff,25,13125
+Nuwara Eliya,Batticaloa,Bus,School,30,12750
+Colombo,Batticaloa,Bus,School,24,7320
+Negombo,Bandarawela,Bus,Staff,40,13400
+Kalutara,Chilaw,Van,School,11,7370
+Batticaloa,Bandarawela,Bus,School,38,11666
+Puttalam,Negombo,Bus,Staff,17,5202
+Colombo,Kalutara,Van,School,20,11980
+Colombo,Badulla,Van,School,32,20000
+Colombo,Polonnaruwa,Van,School,36,17712
+Puttalam,Anuradhapura,Van,School,14,9730
+Batticaloa,Galle,Bus,Staff,46,16514
+Negombo,Ratnapura,Bus,Staff,5,1535
+Chilaw,Batticaloa,Van,Staff,28,12992
+Galle,Matara,Van,Staff,11,6061
+Trincomalee,Kalutara,Van,School,50,20000
+Negombo,Ratnapura,Bus,School,46,20000
+Trincomalee,Gampaha,Bus,School,22,8602
+Nuwara Eliya,Kalutara,Bus,School,34,14416
+Matara,Kurunegala,Van,School,32,18336
+Batticaloa,Kandy,Van,Staff,31,12772
+Anuradhapura,Nuwara Eliya,Bus,School,39,13143
+Badulla,Chilaw,Bus,School,13,5863
+Chilaw,Kalutara,Van,Staff,37,20000
+Negombo,Gampaha,Bus,Staff,5,2330
+Chilaw,Kalutara,Van,Staff,39,20000
+Hambantota,Ratnapura,Van,Staff,14,6510
+Kalutara,Bandarawela,Bus,Staff,47,17437
+Kurunegala,Jaffna,Bus,Staff,44,18040
+Nuwara Eliya,Ratnapura,Van,Staff,39,20000
+Polonnaruwa,Gampaha,Bus,School,24,9768
+Puttalam,Nuwara Eliya,Van,School,49,20000
+Polonnaruwa,Chilaw,Bus,School,13,5213
+Gampaha,Batticaloa,Van,School,44,20000
+Kandy,Trincomalee,Van,School,8,4128
+Gampaha,Jaffna,Bus,School,36,13644
+Puttalam,Batticaloa,Bus,Staff,42,19572
+Kandy,Batticaloa,Van,School,49,20000
+Ratnapura,Matara,Bus,School,30,11430
+Anuradhapura,Jaffna,Bus,Staff,14,4942
+Negombo,Badulla,Van,Staff,49,20000
+Kalutara,Gampaha,Bus,Staff,43,20000
+Chilaw,Badulla,Van,School,14,7406
+Kalutara,Badulla,Van,Staff,19,9367
+Kalutara,Batticaloa,Bus,School,19,9329
+Bandarawela,Puttalam,Bus,Staff,19,6688
+Galle,Negombo,Van,Staff,8,4448
+Negombo,Chilaw,Van,School,50,20000
+Badulla,Kurunegala,Bus,Staff,14,6020
+Hambantota,Puttalam,Van,School,25,17500
+Matara,Jaffna,Bus,School,17,7803
+Colombo,Ratnapura,Bus,School,6,2694
+Kalutara,Kurunegala,Bus,Staff,25,9450
+Trincomalee,Gampaha,Van,Staff,8,5288
+Kalutara,Kurunegala,Bus,Staff,11,3905
+Badulla,Kurunegala,Van,Staff,44,20000
+Kandy,Polonnaruwa,Van,Staff,40,20000
+Galle,Hambantota,Van,Staff,47,20000
+Chilaw,Nuwara Eliya,Van,Staff,43,20000
+Polonnaruwa,Kandy,Van,School,9,6048
+Chilaw,Ratnapura,Van,Staff,49,20000
+Puttalam,Chilaw,Bus,Staff,49,18571
+Kandy,Kalutara,Bus,Staff,45,16110
+Negombo,Polonnaruwa,Bus,School,40,13160
+Anuradhapura,Bandarawela,Bus,School,47,15416
+Bandarawela,Colombo,Bus,School,5,2460
+Kandy,Ratnapura,Van,Staff,26,13260
+Gampaha,Batticaloa,Van,Staff,9,3996
+Kurunegala,Bandarawela,Van,Staff,32,17408
+Jaffna,Badulla,Bus,School,36,15624
+Kandy,Ratnapura,Bus,School,15,5910
+Kalutara,Kurunegala,Bus,Staff,28,11144
+Kalutara,Negombo,Bus,School,44,14212
+Colombo,Ratnapura,Van,School,40,19040
+Hambantota,Kurunegala,Bus,Staff,26,12350
+Ratnapura,Hambantota,Van,Staff,49,20000
+Jaffna,Matara,Bus,School,16,6704
+Kurunegala,Badulla,Van,Staff,22,12848
+Polonnaruwa,Ratnapura,Bus,Staff,19,6137
+Anuradhapura,Jaffna,Bus,School,23,10488
+Trincomalee,Kalutara,Bus,School,16,6512
+Chilaw,Ratnapura,Bus,Staff,31,13330
+Batticaloa,Negombo,Bus,School,43,18232
+Nuwara Eliya,Negombo,Bus,Staff,12,3888
+Puttalam,Kandy,Bus,Staff,11,4389
+Polonnaruwa,Anuradhapura,Bus,School,30,12750
+Kalutara,Badulla,Bus,School,43,20000
+Hambantota,Batticaloa,Van,School,41,20000
+Colombo,Anuradhapura,Bus,School,40,13640
+Puttalam,Kurunegala,Van,School,14,6160
+Batticaloa,Trincomalee,Bus,School,45,16155
+Polonnaruwa,Hambantota,Van,School,17,11900
+Negombo,Colombo,Bus,School,42,16968
+Matara,Nuwara Eliya,Van,School,5,2450
+Kandy,Trincomalee,Bus,School,39,14040
+Puttalam,Polonnaruwa,Bus,Staff,6,2106
+Negombo,Badulla,Bus,School,13,6123
+Negombo,Batticaloa,Bus,Staff,33,16368
+Batticaloa,Kalutara,Van,School,11,4928
+Badulla,Hambantota,Van,School,5,3415
+Polonnaruwa,Chilaw,Van,School,23,14973
+Kandy,Bandarawela,Van,School,31,15314
+Polonnaruwa,Kurunegala,Bus,Staff,15,5595
+Polonnaruwa,Puttalam,Bus,School,49,19698
+Jaffna,Badulla,Van,Staff,34,20000
+Polonnaruwa,Kandy,Van,School,41,20000
+Trincomalee,Hambantota,Van,School,22,13750
+Nuwara Eliya,Puttalam,Van,School,19,9671
+Kurunegala,Ratnapura,Bus,Staff,30,11880
+Nuwara Eliya,Ratnapura,Van,School,7,3479
+Batticaloa,Negombo,Bus,Staff,41,19106
+Polonnaruwa,Chilaw,Bus,School,49,15239
+Kandy,Hambantota,Van,School,21,12096
+Chilaw,Nuwara Eliya,Bus,Staff,37,12654
+Polonnaruwa,Bandarawela,Van,Staff,21,11466
+Nuwara Eliya,Badulla,Bus,School,47,20000
+Polonnaruwa,Gampaha,Bus,School,20,8540
+Kandy,Polonnaruwa,Bus,Staff,32,12832
+Kalutara,Anuradhapura,Bus,School,21,6300
+Kurunegala,Trincomalee,Bus,Staff,49,20000
+Kandy,Galle,Van,School,38,18658
+Gampaha,Galle,Van,Staff,33,15840
+Gampaha,Kurunegala,Van,School,26,14404
+Kandy,Trincomalee,Bus,School,41,18204
+Batticaloa,Anuradhapura,Bus,School,31,14911
+Colombo,Puttalam,Van,Staff,37,20000
+Polonnaruwa,Puttalam,Van,Staff,34,20000
+Trincomalee,Negombo,Van,School,36,15084
+Chilaw,Galle,Bus,School,36,12600
+Bandarawela,Matara,Bus,Staff,12,5376
+Ratnapura,Jaffna,Bus,Staff,22,10406
+Puttalam,Kurunegala,Bus,School,49,18179
+Puttalam,Nuwara Eliya,Van,School,30,20000
+Kurunegala,Kalutara,Bus,School,9,3402
+Negombo,Polonnaruwa,Bus,School,25,7525
+Badulla,Nuwara Eliya,Van,School,12,6336
+Ratnapura,Hambantota,Van,Staff,50,20000
+Trincomalee,Ratnapura,Van,Staff,12,7680
+Kurunegala,Jaffna,Bus,Staff,47,17249
+Ratnapura,Anuradhapura,Van,School,38,16568
+Kandy,Anuradhapura,Bus,School,22,6952
+Trincomalee,Kalutara,Bus,School,6,2478
+Galle,Badulla,Van,School,26,12896
+Polonnaruwa,Matara,Bus,Staff,6,2088
+Jaffna,Kandy,Van,Staff,36,17208
+Jaffna,Batticaloa,Van,School,17,8449
+Anuradhapura,Chilaw,Bus,School,9,4419
+Galle,Nuwara Eliya,Bus,School,19,6023
+Ratnapura,Polonnaruwa,Van,School,22,12958
+Galle,Nuwara Eliya,Van,Staff,20,13380
+Trincomalee,Kalutara,Bus,School,45,15480
+Trincomalee,Batticaloa,Van,Staff,21,12999
+Batticaloa,Ratnapura,Van,School,39,20000
+Kandy,Colombo,Bus,Staff,12,4800
+Hambantota,Galle,Van,Staff,7,3157
+Chilaw,Anuradhapura,Bus,Staff,24,8952
+Negombo,Trincomalee,Bus,Staff,7,3472
+Negombo,Jaffna,Bus,Staff,34,15980
+Jaffna,Colombo,Van,Staff,27,15957
+Colombo,Badulla,Bus,School,8,3120
+Kurunegala,Hambantota,Van,Staff,34,18156
+Batticaloa,Kandy,Van,School,35,20000
+Anuradhapura,Gampaha,Bus,School,17,7480
+Ratnapura,Batticaloa,Van,School,27,13824
+Bandarawela,Badulla,Bus,School,38,17518
+Bandarawela,Kalutara,Bus,School,15,5970
+Trincomalee,Badulla,Bus,Staff,20,9780
+Kalutara,Chilaw,Van,School,41,20000
+Batticaloa,Polonnaruwa,Bus,School,34,14790
+Galle,Kurunegala,Bus,Staff,37,15503
+Jaffna,Anuradhapura,Bus,Staff,44,14300
+Kandy,Batticaloa,Bus,Staff,42,16590
+Hambantota,Nuwara Eliya,Bus,School,16,5712
+Anuradhapura,Chilaw,Van,School,43,20000
+Galle,Jaffna,Van,School,12,5700
+Kandy,Matara,Van,School,18,12258
+Ratnapura,Anuradhapura,Bus,School,27,12312
+Kandy,Kurunegala,Bus,School,10,4050
+Trincomalee,Gampaha,Van,School,13,8385
+Hambantota,Trincomalee,Bus,Staff,40,12160
+Ratnapura,Gampaha,Van,School,25,10450
+Trincomalee,Bandarawela,Van,School,19,12711
+Gampaha,Hambantota,Bus,School,39,12948
+Ratnapura,Negombo,Bus,School,18,7074
+Colombo,Kalutara,Van,School,14,6342
+Batticaloa,Puttalam,Van,School,16,10192
+Badulla,Chilaw,Bus,Staff,31,14942
+Galle,Colombo,Van,Staff,10,6760
+Nuwara Eliya,Batticaloa,Van,School,49,20000
+Chilaw,Nuwara Eliya,Bus,School,9,4302
+Galle,Jaffna,Van,School,32,20000
+Galle,Kandy,Van,Staff,38,20000
+Negombo,Puttalam,Van,School,11,6798
+Galle,Bandarawela,Van,Staff,31,13919
+Nuwara Eliya,Anuradhapura,Bus,Staff,11,3608
+Matara,Negombo,Van,School,19,11628
+Puttalam,Negombo,Bus,Staff,25,9675
+Nuwara Eliya,Jaffna,Bus,School,26,8086
+Chilaw,Galle,Bus,Staff,40,14040
+Gampaha,Kurunegala,Bus,School,16,6992
+Gampaha,Kandy,Bus,School,46,20000
+Matara,Nuwara Eliya,Van,School,31,18507
+Galle,Hambantota,Bus,Staff,12,3972
+Kandy,Colombo,Van,Staff,18,10080
+Colombo,Batticaloa,Van,Staff,15,6480
+Bandarawela,Ratnapura,Van,School,10,4760
+Kandy,Polonnaruwa,Van,School,17,10523
+Trincomalee,Colombo,Van,School,48,20000
+Negombo,Kalutara,Bus,School,15,5685
+Nuwara Eliya,Negombo,Van,Staff,43,20000
+Bandarawela,Kurunegala,Van,School,44,20000
+Kandy,Colombo,Van,School,10,6190
+Nuwara Eliya,Batticaloa,Bus,School,40,13920
+Puttalam,Polonnaruwa,Van,Staff,24,16536
+Nuwara Eliya,Ratnapura,Van,School,29,20000
+Colombo,Bandarawela,Bus,Staff,37,17094
+Chilaw,Batticaloa,Van,Staff,46,20000
+Jaffna,Puttalam,Van,School,19,12996
+Puttalam,Trincomalee,Bus,School,32,14080
+Galle,Kurunegala,Van,School,46,20000
+Bandarawela,Chilaw,Bus,Staff,23,9062
+Nuwara Eliya,Ratnapura,Bus,School,28,8848
+Polonnaruwa,Badulla,Van,Staff,36,16164
+Gampaha,Galle,Van,Staff,44,20000
+Colombo,Trincomalee,Bus,School,45,14940
+Negombo,Hambantota,Bus,School,49,14945
+Kurunegala,Chilaw,Van,Staff,29,16907
+Trincomalee,Batticaloa,Van,School,13,7969
+Polonnaruwa,Chilaw,Bus,Staff,22,7040
+Nuwara Eliya,Trincomalee,Bus,School,21,8694
+Colombo,Galle,Van,School,42,20000
+Colombo,Badulla,Bus,School,16,5600
+Ratnapura,Batticaloa,Bus,School,14,4564
+Badulla,Matara,Bus,Staff,12,4644
+Colombo,Chilaw,Van,Staff,27,16173
+Polonnaruwa,Nuwara Eliya,Van,School,37,20000
+Kandy,Batticaloa,Van,Staff,8,4672
+Trincomalee,Badulla,Van,Staff,9,5733
+Chilaw,Hambantota,Bus,School,16,7440
+Matara,Galle,Bus,School,20,6020
+Gampaha,Kalutara,Bus,School,36,15984
+Colombo,Bandarawela,Van,School,35,20000
+Gampaha,Anuradhapura,Van,School,30,13290
+Anuradhapura,Kalutara,Van,School,28,12012
+Kandy,Colombo,Van,Staff,37,19906
+Chilaw,Badulla,Van,School,31,16926
+Kandy,Kurunegala,Van,School,9,4140
+Anuradhapura,Kalutara,Bus,School,34,13124
+Bandarawela,Badulla,Van,School,50,20000
+Chilaw,Badulla,Bus,School,24,10968
+Nuwara Eliya,Jaffna,Bus,School,8,2656
+Chilaw,Kurunegala,Van,School,42,20000
+Bandarawela,Galle,Bus,Staff,31,14663
+Chilaw,Kandy,Van,School,25,16300
+Ratnapura,Kurunegala,Van,School,6,2460
+Jaffna,Trincomalee,Bus,Staff,26,8268
+Anuradhapura,Kurunegala,Van,Staff,49,20000
+Colombo,Galle,Van,School,10,6300
+Batticaloa,Polonnaruwa,Bus,School,42,19824
+Batticaloa,Hambantota,Bus,School,49,16268
+Batticaloa,Hambantota,Bus,Staff,37,17242
+Matara,Nuwara Eliya,Van,School,28,18228
+Kandy,Ratnapura,Bus,Staff,37,14837
+Trincomalee,Nuwara Eliya,Van,School,47,20000
+Kandy,Colombo,Bus,Staff,33,9900
+Gampaha,Anuradhapura,Bus,Staff,41,19311
+Chilaw,Polonnaruwa,Van,Staff,38,20000
+Nuwara Eliya,Kurunegala,Bus,Staff,33,9966
+Chilaw,Hambantota,Bus,Staff,32,12288
+Colombo,Hambantota,Bus,Staff,17,7225
+Matara,Gampaha,Bus,Staff,45,19845
+Jaffna,Negombo,Bus,Staff,30,13050
+Galle,Gampaha,Bus,School,14,6272
+Matara,Kalutara,Bus,Staff,25,9600
+Matara,Batticaloa,Bus,Staff,24,8328
+Puttalam,Kandy,Bus,Staff,19,7733
+Trincomalee,Nuwara Eliya,Bus,Staff,42,13230
+Hambantota,Anuradhapura,Van,Staff,5,2895
+Negombo,Badulla,Van,School,7,3395
+Nuwara Eliya,Kalutara,Van,School,41,18655
+Kurunegala,Negombo,Van,School,37,19092
+Polonnaruwa,Matara,Van,School,43,18662
+Chilaw,Trincomalee,Van,Staff,6,2862
+Bandarawela,Anuradhapura,Van,Staff,42,20000
+Matara,Ratnapura,Bus,Staff,38,17936
+Jaffna,Galle,Bus,School,18,8514
+Jaffna,Kandy,Van,School,39,20000
+Bandarawela,Colombo,Van,Staff,44,20000
+Kandy,Puttalam,Van,Staff,27,18603
+Ratnapura,Anuradhapura,Bus,Staff,26,9802
+Kandy,Hambantota,Bus,School,41,20000
+Batticaloa,Chilaw,Bus,School,29,9918
+Chilaw,Badulla,Van,School,12,5136
+Ratnapura,Negombo,Van,Staff,48,20000
+Anuradhapura,Jaffna,Van,School,45,20000
+Trincomalee,Gampaha,Bus,Staff,37,16428
+Hambantota,Gampaha,Bus,School,37,13061
+Gampaha,Polonnaruwa,Bus,Staff,43,13201
+Nuwara Eliya,Galle,Van,School,9,6228
+Trincomalee,Nuwara Eliya,Bus,School,20,8740
+Trincomalee,Gampaha,Bus,Staff,31,11098
+Polonnaruwa,Puttalam,Van,Staff,10,4300
+Kalutara,Batticaloa,Bus,Staff,37,12395
+Colombo,Puttalam,Bus,School,39,11856
+Ratnapura,Trincomalee,Bus,School,8,3208
+Galle,Kurunegala,Bus,Staff,30,11850
+Batticaloa,Colombo,Van,Staff,41,17999
+Bandarawela,Kandy,Bus,School,45,20000
+Kandy,Gampaha,Bus,School,34,10710
+Nuwara Eliya,Trincomalee,Bus,School,26,11024
+Colombo,Gampaha,Van,Staff,31,15376
+Polonnaruwa,Trincomalee,Bus,Staff,16,6176
+Ratnapura,Jaffna,Van,School,16,9936
+Galle,Jaffna,Bus,Staff,38,12008
+Trincomalee,Polonnaruwa,Bus,Staff,16,6064
+Batticaloa,Anuradhapura,Van,School,48,20000
+Nuwara Eliya,Ratnapura,Bus,Staff,48,14832
+Galle,Kalutara,Bus,Staff,45,20000
+Jaffna,Negombo,Van,Staff,10,4260
+Ratnapura,Badulla,Bus,School,7,2562
+Polonnaruwa,Puttalam,Van,Staff,26,14742
+Anuradhapura,Batticaloa,Van,School,7,4634
+Trincomalee,Gampaha,Van,School,11,5687
+Nuwara Eliya,Colombo,Bus,School,5,2320
+Matara,Puttalam,Van,School,31,16678
+Hambantota,Trincomalee,Bus,Staff,6,2490
+Chilaw,Puttalam,Bus,Staff,46,16468
+Galle,Kandy,Van,School,6,3666
+Jaffna,Kurunegala,Van,School,23,10672
+Negombo,Jaffna,Bus,School,7,3297
+Batticaloa,Anuradhapura,Van,School,35,15225
+Colombo,Batticaloa,Bus,School,45,15165
+Kurunegala,Negombo,Van,School,21,10290
+Nuwara Eliya,Colombo,Van,School,44,20000
+Bandarawela,Nuwara Eliya,Bus,School,32,14752
+Kurunegala,Negombo,Van,School,22,11484
+Negombo,Bandarawela,Van,Staff,34,20000
+Gampaha,Kurunegala,Bus,Staff,43,18533
+Gampaha,Galle,Bus,Staff,24,7872
+Colombo,Kandy,Bus,Staff,36,15336
+Trincomalee,Colombo,Van,Staff,21,8631
+Chilaw,Hambantota,Van,School,25,11125
+Colombo,Bandarawela,Van,School,6,2478
+Kandy,Nuwara Eliya,Bus,Staff,40,12040
+Ratnapura,Galle,Van,Staff,18,8892
+Colombo,Nuwara Eliya,Bus,Staff,23,7475
+Jaffna,Negombo,Bus,Staff,24,7440
+Anuradhapura,Nuwara Eliya,Bus,School,28,11788
+Nuwara Eliya,Trincomalee,Bus,School,28,9016
+Kandy,Galle,Bus,Staff,23,8602
+Negombo,Matara,Bus,School,14,6440
+Matara,Badulla,Bus,Staff,25,11575
+Negombo,Matara,Bus,Staff,26,12454
+Batticaloa,Hambantota,Van,Staff,41,20000
+Colombo,Kurunegala,Van,Staff,48,20000
+Anuradhapura,Ratnapura,Van,School,29,18386
+Polonnaruwa,Batticaloa,Van,School,12,6132
+Nuwara Eliya,Gampaha,Bus,School,19,7733
+Negombo,Matara,Van,School,10,4880
+Trincomalee,Batticaloa,Bus,School,36,14796
+Matara,Kandy,Bus,School,48,20000
+Kurunegala,Chilaw,Van,Staff,32,17920
+Ratnapura,Kandy,Van,School,41,20000
+Jaffna,Badulla,Van,Staff,14,9646
+Negombo,Badulla,Van,School,6,3642
+Ratnapura,Chilaw,Van,Staff,50,20000
+Kalutara,Galle,Van,Staff,13,7826
+Kalutara,Anuradhapura,Van,Staff,36,15696
+Hambantota,Anuradhapura,Bus,School,20,7460
+Kalutara,Galle,Bus,School,15,5040
+Jaffna,Puttalam,Bus,Staff,46,15226
+Gampaha,Batticaloa,Bus,School,32,15712
+Matara,Badulla,Van,Staff,19,13091
+Anuradhapura,Puttalam,Van,School,50,20000
+Hambantota,Puttalam,Van,School,10,5950
+Jaffna,Anuradhapura,Bus,School,30,11070
+Jaffna,Puttalam,Bus,Staff,15,6510
+Trincomalee,Matara,Van,School,18,8892
+Batticaloa,Galle,Van,School,42,19236
+Trincomalee,Jaffna,Van,Staff,20,8540
+Nuwara Eliya,Negombo,Bus,School,26,11518
+Trincomalee,Batticaloa,Bus,Staff,48,19728
+Jaffna,Batticaloa,Bus,Staff,34,16660
+Anuradhapura,Kalutara,Van,School,16,6592
+Batticaloa,Galle,Bus,School,40,19200
+Ratnapura,Polonnaruwa,Bus,Staff,31,10385
+Polonnaruwa,Ratnapura,Van,Staff,6,3450
+Chilaw,Negombo,Bus,Staff,43,16039
+Kalutara,Nuwara Eliya,Bus,Staff,47,20000
+Bandarawela,Galle,Bus,Staff,33,10098
+Kalutara,Jaffna,Van,Staff,7,3801
+Galle,Jaffna,Bus,Staff,14,4326
+Chilaw,Gampaha,Bus,School,42,12684
+Ratnapura,Chilaw,Van,School,42,20000
+Anuradhapura,Colombo,Bus,School,46,13892
+Batticaloa,Polonnaruwa,Bus,School,26,11154
+Colombo,Polonnaruwa,Van,Staff,5,3255
+Gampaha,Kandy,Bus,School,35,14525
+Nuwara Eliya,Anuradhapura,Van,Staff,23,11201
+Ratnapura,Jaffna,Van,School,10,5810
+Chilaw,Polonnaruwa,Van,School,12,6912
+Jaffna,Colombo,Van,School,7,4844
+Negombo,Galle,Van,Staff,29,15776
+Ratnapura,Colombo,Van,Staff,46,20000
+Colombo,Kurunegala,Van,School,25,11900
+Negombo,Anuradhapura,Bus,Staff,23,9384
+Kalutara,Anuradhapura,Van,School,33,19470
+Badulla,Colombo,Bus,Staff,14,6832
+Hambantota,Kalutara,Van,School,42,20000
+Kalutara,Ratnapura,Bus,School,33,13662
+Anuradhapura,Matara,Van,School,23,14904
+Kalutara,Kandy,Bus,Staff,39,19071
+Chilaw,Hambantota,Bus,Staff,22,7678
+Negombo,Gampaha,Bus,Staff,43,19823
+Kalutara,Polonnaruwa,Van,Staff,36,20000
+Matara,Kandy,Van,School,22,14410
+Kurunegala,Hambantota,Bus,School,5,1985
+Matara,Negombo,Van,Staff,34,17544
+Kalutara,Matara,Bus,Staff,11,4884
+Matara,Kalutara,Van,Staff,32,14176
+Chilaw,Batticaloa,Van,Staff,9,3825
+Jaffna,Kandy,Van,School,20,13340
+Polonnaruwa,Batticaloa,Bus,Staff,28,8960
+Matara,Badulla,Van,School,31,12586
+Negombo,Batticaloa,Bus,School,36,13680
+Trincomalee,Galle,Van,Staff,8,4912
+Matara,Galle,Bus,Staff,26,10712
+Puttalam,Anuradhapura,Bus,Staff,25,12150
+Polonnaruwa,Hambantota,Bus,Staff,21,8064
+Gampaha,Negombo,Bus,School,32,14016
+Badulla,Anuradhapura,Van,School,26,10790
+Ratnapura,Jaffna,Van,School,37,20000
+Negombo,Chilaw,Bus,School,9,4248
+Trincomalee,Ratnapura,Bus,School,31,11005
+Nuwara Eliya,Polonnaruwa,Van,Staff,13,7592
+Kandy,Nuwara Eliya,Van,School,31,18352
+Polonnaruwa,Anuradhapura,Bus,School,23,10281
+Kurunegala,Ratnapura,Bus,Staff,14,4648
+Colombo,Chilaw,Bus,Staff,14,6454
+Chilaw,Batticaloa,Bus,School,18,6858
+Puttalam,Polonnaruwa,Van,School,10,6910
+Matara,Kandy,Van,Staff,7,4858
+Jaffna,Chilaw,Bus,School,37,15688
+Puttalam,Chilaw,Van,Staff,26,10842
+Colombo,Negombo,Bus,Staff,48,19440
+Hambantota,Nuwara Eliya,Bus,School,45,14805
+Hambantota,Anuradhapura,Van,School,50,20000
+Nuwara Eliya,Jaffna,Van,School,34,20000
+Galle,Ratnapura,Bus,School,6,2106
+Ratnapura,Badulla,Van,Staff,25,17175
+Polonnaruwa,Colombo,Bus,Staff,9,3879
+Kurunegala,Negombo,Van,School,14,8134
+Kalutara,Badulla,Bus,School,30,12540
+Negombo,Gampaha,Van,School,42,20000
+Negombo,Kalutara,Van,School,35,20000
+Matara,Puttalam,Bus,Staff,24,10872
+Hambantota,Batticaloa,Van,Staff,21,8757
+Ratnapura,Trincomalee,Van,School,47,19270
+Galle,Kalutara,Van,Staff,29,14703
+Kurunegala,Kalutara,Bus,School,5,1990
+Kandy,Kalutara,Bus,Staff,44,17336
+Kurunegala,Jaffna,Bus,School,8,2728
+Ratnapura,Puttalam,Bus,School,21,7203
+Hambantota,Trincomalee,Van,Staff,41,20000
+Nuwara Eliya,Negombo,Bus,Staff,16,6800
+Puttalam,Jaffna,Bus,School,34,14110
+Chilaw,Matara,Bus,Staff,35,10675
+Ratnapura,Anuradhapura,Bus,School,29,10904
+Matara,Hambantota,Van,Staff,11,6589
+Chilaw,Matara,Bus,Staff,9,3960
+Kandy,Ratnapura,Bus,Staff,20,7120
+Hambantota,Gampaha,Bus,Staff,37,14430
+Hambantota,Polonnaruwa,Bus,School,21,8862
+Anuradhapura,Colombo,Van,Staff,45,20000
+Colombo,Bandarawela,Van,Staff,19,8778
+Negombo,Polonnaruwa,Van,Staff,50,20000
+Galle,Nuwara Eliya,Van,Staff,29,19720
+Badulla,Ratnapura,Van,Staff,40,16560
+Galle,Kandy,Bus,Staff,48,18384
+Kalutara,Hambantota,Bus,School,7,2401
+Polonnaruwa,Kalutara,Van,Staff,29,15254
+Anuradhapura,Badulla,Bus,School,10,3490
+Jaffna,Gampaha,Van,Staff,46,20000
+Jaffna,Puttalam,Van,School,12,5604
+Puttalam,Hambantota,Van,Staff,26,17680
+Anuradhapura,Negombo,Van,School,44,20000
+Puttalam,Batticaloa,Bus,School,9,3897
+Polonnaruwa,Nuwara Eliya,Bus,Staff,39,17589
+Batticaloa,Matara,Bus,School,44,18040
+Negombo,Jaffna,Bus,School,12,5724
+Hambantota,Kalutara,Bus,School,13,4381
+Bandarawela,Negombo,Van,School,18,8442
+Hambantota,Kalutara,Bus,Staff,46,19228
+Galle,Trincomalee,Van,School,5,3460
+Ratnapura,Bandarawela,Van,School,38,19266
+Ratnapura,Bandarawela,Bus,School,35,13335
+Polonnaruwa,Bandarawela,Bus,School,40,13920
+Ratnapura,Colombo,Van,Staff,50,20000
+Colombo,Kurunegala,Van,School,37,20000
+Jaffna,Bandarawela,Van,School,38,16568
+Matara,Kurunegala,Van,Staff,38,20000
+Jaffna,Puttalam,Van,School,5,2225
+Negombo,Colombo,Van,Staff,10,4900
+Ratnapura,Kandy,Van,School,36,20000
+Gampaha,Chilaw,Van,School,32,19168
+Hambantota,Colombo,Bus,School,40,15840
+Kandy,Ratnapura,Van,School,8,4584
+Gampaha,Anuradhapura,Bus,School,44,20000
+Ratnapura,Puttalam,Bus,Staff,25,7600
+Chilaw,Anuradhapura,Bus,Staff,31,9672
+Trincomalee,Bandarawela,Van,Staff,23,11730
+Bandarawela,Puttalam,Bus,Staff,14,5628
+Trincomalee,Puttalam,Van,School,31,12524
+Puttalam,Kurunegala,Bus,Staff,18,8946
+Galle,Bandarawela,Bus,Staff,49,20000
+Kandy,Nuwara Eliya,Bus,School,46,19596
+Nuwara Eliya,Hambantota,Bus,School,13,5590
+Trincomalee,Puttalam,Bus,School,12,4968
+Bandarawela,Kalutara,Van,Staff,45,20000
+Colombo,Galle,Bus,School,5,1970
+Trincomalee,Galle,Van,School,48,20000
+Polonnaruwa,Badulla,Van,Staff,19,12578
+Badulla,Nuwara Eliya,Van,School,33,15708
+Trincomalee,Bandarawela,Van,School,12,7212
+Anuradhapura,Nuwara Eliya,Bus,Staff,15,4800
+Polonnaruwa,Anuradhapura,Van,Staff,12,5928
+Negombo,Galle,Bus,Staff,20,7500
+Anuradhapura,Kalutara,Bus,Staff,26,8918
+Hambantota,Negombo,Bus,Staff,12,4536
+Matara,Chilaw,Bus,School,9,4023
+Gampaha,Matara,Bus,School,13,5135
+Jaffna,Gampaha,Bus,Staff,21,8337
+Trincomalee,Batticaloa,Bus,School,37,11396
+Negombo,Trincomalee,Van,Staff,5,3275
+Ratnapura,Kalutara,Van,School,29,14819
+Hambantota,Jaffna,Van,School,24,14016
+Nuwara Eliya,Kalutara,Van,Staff,27,13284
+Ratnapura,Kurunegala,Bus,School,5,1590
+Galle,Gampaha,Van,Staff,34,16660
+Jaffna,Polonnaruwa,Bus,Staff,5,1915
+Kandy,Kurunegala,Bus,Staff,8,3272
+Gampaha,Kandy,Van,School,16,9552
+Matara,Kandy,Van,Staff,45,19530
+Jaffna,Trincomalee,Bus,Staff,28,12376
+Kurunegala,Ratnapura,Van,Staff,48,20000
+Matara,Badulla,Van,School,14,8470
+Kalutara,Nuwara Eliya,Bus,Staff,23,7452
+Bandarawela,Nuwara Eliya,Bus,Staff,31,10354
+Nuwara Eliya,Anuradhapura,Bus,Staff,8,3336
+Hambantota,Anuradhapura,Van,Staff,17,10489
+Anuradhapura,Kurunegala,Bus,Staff,43,15265
+Batticaloa,Negombo,Van,Staff,15,9615
+Jaffna,Polonnaruwa,Van,Staff,42,20000
+Hambantota,Puttalam,Bus,School,39,13767
+Puttalam,Jaffna,Van,Staff,26,14014
+Trincomalee,Bandarawela,Bus,School,31,10075
+Badulla,Trincomalee,Bus,Staff,13,5070
+Jaffna,Bandarawela,Bus,Staff,43,15867
+Colombo,Ratnapura,Van,School,32,19968
+Gampaha,Jaffna,Bus,School,23,7889
+Gampaha,Batticaloa,Van,School,38,17898
+Matara,Nuwara Eliya,Van,School,26,11154
+Gampaha,Anuradhapura,Van,School,10,5120
+Polonnaruwa,Batticaloa,Van,School,35,17640
+Trincomalee,Jaffna,Van,School,36,17424
+Ratnapura,Matara,Van,School,35,20000
+Jaffna,Polonnaruwa,Van,Staff,16,6608
+Galle,Badulla,Bus,School,26,8008
+Nuwara Eliya,Kalutara,Van,School,21,9051
+Kalutara,Gampaha,Van,School,14,7812
+Anuradhapura,Bandarawela,Van,Staff,6,3144
+Polonnaruwa,Matara,Bus,School,10,3830
+Kurunegala,Chilaw,Van,Staff,8,3528
+Bandarawela,Chilaw,Van,Staff,20,10100
+Badulla,Galle,Bus,School,42,20000
+Kandy,Polonnaruwa,Van,Staff,49,20000
+Ratnapura,Puttalam,Bus,Staff,20,7600
+Badulla,Kurunegala,Van,School,20,11380
+Badulla,Polonnaruwa,Van,Staff,49,20000
+Galle,Trincomalee,Bus,Staff,28,8484
+Trincomalee,Anuradhapura,Bus,School,48,18480
+Puttalam,Batticaloa,Bus,School,19,8550
+Ratnapura,Anuradhapura,Bus,Staff,35,15435
+Anuradhapura,Kurunegala,Van,Staff,50,20000
+Nuwara Eliya,Kurunegala,Van,School,37,20000
+Colombo,Jaffna,Van,School,49,20000
+Anuradhapura,Badulla,Van,Staff,17,8075
+Trincomalee,Ratnapura,Bus,Staff,30,11040
+Gampaha,Colombo,Bus,Staff,35,12110
+Chilaw,Ratnapura,Van,School,13,8021
+Kandy,Gampaha,Bus,Staff,19,7467
+Kandy,Ratnapura,Bus,School,14,6804
+Colombo,Badulla,Bus,Staff,42,14322
+Polonnaruwa,Badulla,Van,School,26,12896
+Nuwara Eliya,Polonnaruwa,Van,Staff,5,2145
+Matara,Jaffna,Bus,Staff,5,2470
+Bandarawela,Nuwara Eliya,Van,Staff,24,9816
+Hambantota,Jaffna,Van,Staff,47,20000
+Hambantota,Gampaha,Van,School,25,15825
+Puttalam,Matara,Van,Staff,10,4530
+Anuradhapura,Chilaw,Van,Staff,37,20000
+Batticaloa,Hambantota,Van,School,40,20000
+Chilaw,Puttalam,Van,School,47,20000
+Galle,Ratnapura,Van,Staff,38,20000
+Kandy,Batticaloa,Bus,Staff,50,20000
+Kurunegala,Colombo,Van,School,24,13008
+Anuradhapura,Jaffna,Van,Staff,19,11742
+Chilaw,Ratnapura,Van,Staff,38,18924
+Puttalam,Bandarawela,Van,Staff,43,20000
+Jaffna,Matara,Van,Staff,5,3200
+Puttalam,Anuradhapura,Bus,School,44,20000
+Batticaloa,Polonnaruwa,Bus,Staff,7,2905
+Anuradhapura,Galle,Van,Staff,11,5049
+Batticaloa,Galle,Van,School,46,18722
+Chilaw,Gampaha,Bus,School,40,15680
+Batticaloa,Badulla,Bus,School,49,17542
+Ratnapura,Galle,Bus,Staff,5,1820
+Negombo,Puttalam,Bus,Staff,23,8050
+Kurunegala,Gampaha,Van,Staff,17,11152
+Anuradhapura,Kalutara,Bus,Staff,9,4338
+Bandarawela,Jaffna,Bus,School,33,15378
+Anuradhapura,Colombo,Bus,School,17,6307
+Bandarawela,Matara,Bus,Staff,29,9425
+Batticaloa,Matara,Bus,School,47,20000
+Puttalam,Colombo,Bus,Staff,50,18700
+Chilaw,Bandarawela,Van,Staff,18,12510
+Ratnapura,Galle,Bus,School,19,6764
+Anuradhapura,Badulla,Bus,Staff,48,14640
+Trincomalee,Chilaw,Van,School,47,20000
+Anuradhapura,Galle,Van,School,9,4707
+Chilaw,Anuradhapura,Bus,School,18,6588
+Batticaloa,Kurunegala,Van,Staff,39,20000
+Anuradhapura,Jaffna,Van,School,40,18320
+Hambantota,Trincomalee,Bus,Staff,5,2315
+Kalutara,Negombo,Bus,School,24,7584
+Negombo,Kalutara,Van,Staff,37,20000
+Kandy,Colombo,Bus,School,42,18060
+Hambantota,Puttalam,Van,School,24,14256
+Matara,Jaffna,Van,School,42,18984
+Ratnapura,Kurunegala,Van,School,21,9513
+Ratnapura,Kurunegala,Van,School,19,10982
+Puttalam,Kandy,Van,School,40,20000
+Badulla,Kandy,Van,Staff,34,19584
+Bandarawela,Colombo,Van,Staff,11,5445
+Kandy,Matara,Bus,School,42,17010
+Kurunegala,Bandarawela,Van,School,36,19044
+Hambantota,Bandarawela,Bus,Staff,18,6066
+Ratnapura,Gampaha,Van,School,44,20000
+Hambantota,Bandarawela,Van,Staff,30,12300
+Galle,Puttalam,Van,Staff,28,13860
+Galle,Bandarawela,Van,Staff,39,15639
+Ratnapura,Batticaloa,Van,Staff,26,16510
+Colombo,Chilaw,Van,School,14,7616
+Jaffna,Polonnaruwa,Van,School,18,8262
+Jaffna,Ratnapura,Bus,Staff,17,7956
+Anuradhapura,Batticaloa,Bus,Staff,48,19632
+Kurunegala,Batticaloa,Bus,Staff,31,10664
+Galle,Anuradhapura,Bus,Staff,8,3184
+Chilaw,Anuradhapura,Bus,Staff,37,18500
+Matara,Negombo,Van,Staff,24,12288
+Hambantota,Puttalam,Bus,School,41,15047
+Trincomalee,Ratnapura,Bus,School,31,12989
+Bandarawela,Kalutara,Van,Staff,28,16772
+Chilaw,Bandarawela,Van,School,6,3996
+Jaffna,Negombo,Van,Staff,25,13075
+Jaffna,Galle,Bus,Staff,48,20000
+Kalutara,Anuradhapura,Van,Staff,7,4088
+Galle,Puttalam,Van,School,28,17864
+Kurunegala,Trincomalee,Bus,Staff,40,12040
+Polonnaruwa,Trincomalee,Van,School,29,16617
+Chilaw,Nuwara Eliya,Bus,Staff,29,11803
+Negombo,Kandy,Bus,School,41,15457
+Kalutara,Colombo,Bus,School,47,15980
+Chilaw,Trincomalee,Van,Staff,39,20000
+Nuwara Eliya,Anuradhapura,Bus,School,49,20000
+Matara,Nuwara Eliya,Van,School,12,5772
+Nuwara Eliya,Ratnapura,Bus,School,44,20000
+Gampaha,Hambantota,Bus,School,8,3808
+Colombo,Jaffna,Bus,Staff,26,10400
+Batticaloa,Trincomalee,Van,Staff,11,4433
+Nuwara Eliya,Bandarawela,Van,School,34,17306
+Trincomalee,Anuradhapura,Van,Staff,39,18213
+Galle,Jaffna,Van,Staff,43,18619
+Anuradhapura,Negombo,Bus,Staff,35,17045
+Jaffna,Ratnapura,Van,Staff,37,20000
+Matara,Galle,Bus,School,24,8568
+Nuwara Eliya,Puttalam,Bus,School,16,6288
+Batticaloa,Kalutara,Van,Staff,13,5239
+Ratnapura,Colombo,Bus,School,42,19740
+Matara,Galle,Bus,Staff,25,8425
+Nuwara Eliya,Jaffna,Bus,Staff,42,12768
+Matara,Bandarawela,Van,Staff,35,15190
+Nuwara Eliya,Bandarawela,Bus,School,9,3240
+Badulla,Puttalam,Van,School,7,3556
+Polonnaruwa,Trincomalee,Van,Staff,43,20000
+Chilaw,Jaffna,Bus,School,47,17766
+Polonnaruwa,Colombo,Bus,School,50,20000
+Polonnaruwa,Kalutara,Bus,School,27,11151
+Kandy,Batticaloa,Bus,School,19,8189
+Jaffna,Gampaha,Van,School,33,18975
+Trincomalee,Puttalam,Bus,School,10,4010
+Nuwara Eliya,Ratnapura,Van,School,46,20000
+Hambantota,Nuwara Eliya,Bus,Staff,23,8303
+Chilaw,Badulla,Bus,Staff,36,11700
+Matara,Puttalam,Bus,Staff,41,20000
+Ratnapura,Polonnaruwa,Bus,Staff,42,12600
+Puttalam,Anuradhapura,Bus,Staff,39,17355
+Ratnapura,Kalutara,Van,Staff,18,10530
+Anuradhapura,Puttalam,Van,Staff,27,14337
+Chilaw,Galle,Bus,School,21,6783
+Hambantota,Chilaw,Van,School,35,15050
+Kandy,Negombo,Van,School,24,14160
+Kandy,Gampaha,Van,Staff,47,19317
+Bandarawela,Gampaha,Van,Staff,43,18748
+Negombo,Anuradhapura,Van,School,5,2310
+Kandy,Kalutara,Van,School,12,6660
+Ratnapura,Galle,Bus,School,42,18144
+Jaffna,Chilaw,Bus,School,11,4609
+Puttalam,Bandarawela,Van,School,10,4980
+Hambantota,Trincomalee,Van,Staff,45,20000
+Jaffna,Negombo,Van,School,16,11120
+Puttalam,Polonnaruwa,Bus,School,37,11322
+Nuwara Eliya,Kalutara,Van,School,39,20000
+Kalutara,Polonnaruwa,Van,Staff,18,11034
+Gampaha,Kalutara,Bus,Staff,35,17255
+Kandy,Nuwara Eliya,Van,Staff,26,17342
+Negombo,Badulla,Bus,Staff,19,9462
+Ratnapura,Puttalam,Van,School,44,18216
+Nuwara Eliya,Trincomalee,Van,School,20,8900
+Trincomalee,Anuradhapura,Bus,Staff,48,17616
+Kalutara,Badulla,Bus,School,32,14176
+Colombo,Hambantota,Van,School,6,3120
+Puttalam,Kandy,Van,School,43,20000
+Matara,Jaffna,Bus,School,37,16946
+Batticaloa,Galle,Bus,Staff,10,4940
+Negombo,Kalutara,Van,School,49,20000
+Matara,Hambantota,Bus,School,31,14601
+Ratnapura,Nuwara Eliya,Van,School,24,12912
+Kalutara,Gampaha,Bus,School,26,11440
+Ratnapura,Jaffna,Van,Staff,28,12768
+Chilaw,Kalutara,Bus,School,24,11328
+Kandy,Matara,Bus,Staff,22,10186
+Colombo,Ratnapura,Bus,Staff,43,15007
+Hambantota,Ratnapura,Bus,Staff,22,8030
+Bandarawela,Badulla,Van,School,45,20000
+Negombo,Galle,Van,School,35,18585
+Matara,Polonnaruwa,Bus,School,12,4188
+Nuwara Eliya,Bandarawela,Bus,School,47,14852
+Matara,Anuradhapura,Van,Staff,7,2926
+Kalutara,Galle,Van,Staff,28,16044
+Bandarawela,Nuwara Eliya,Van,School,19,9177
+Ratnapura,Negombo,Van,Staff,28,16716
+Kurunegala,Kandy,Van,School,26,16224
+Galle,Colombo,Van,Staff,42,20000
+Polonnaruwa,Hambantota,Van,School,33,18249
+Kurunegala,Galle,Van,School,44,20000
+Nuwara Eliya,Batticaloa,Van,School,36,20000
+Jaffna,Nuwara Eliya,Bus,School,15,6570
+Matara,Nuwara Eliya,Van,Staff,9,5310
+Chilaw,Kandy,Van,Staff,15,10065
+Anuradhapura,Puttalam,Van,School,8,3224
+Kalutara,Gampaha,Van,School,20,11640
+Puttalam,Gampaha,Van,School,21,8946
+Polonnaruwa,Ratnapura,Van,School,5,2655
+Gampaha,Nuwara Eliya,Bus,Staff,12,5856
+Hambantota,Galle,Van,School,42,20000
+Bandarawela,Ratnapura,Van,School,19,12939
+Negombo,Chilaw,Bus,Staff,45,20000
+Jaffna,Kurunegala,Van,Staff,6,3084
+Bandarawela,Kandy,Bus,Staff,46,20000
+Polonnaruwa,Galle,Van,School,27,13149
+Matara,Polonnaruwa,Bus,School,9,3960
+Colombo,Matara,Van,School,9,4401
+Galle,Colombo,Bus,School,45,14400
+Kandy,Bandarawela,Bus,School,12,4176
+Colombo,Chilaw,Van,School,40,20000
+Hambantota,Kurunegala,Van,School,10,5250
+Batticaloa,Nuwara Eliya,Bus,School,44,17864
+Chilaw,Bandarawela,Van,Staff,45,20000
+Colombo,Bandarawela,Bus,School,11,5192
+Ratnapura,Kandy,Van,School,8,3448
+Nuwara Eliya,Kandy,Bus,School,8,3592
+Trincomalee,Jaffna,Van,Staff,42,20000
+Colombo,Bandarawela,Bus,Staff,17,5576
+Chilaw,Trincomalee,Bus,Staff,6,2802
+Jaffna,Polonnaruwa,Van,School,19,9386
+Chilaw,Galle,Van,Staff,32,17024
+Trincomalee,Bandarawela,Bus,Staff,39,18954
+Negombo,Puttalam,Van,School,32,20000
+Polonnaruwa,Batticaloa,Van,School,36,18468
+Chilaw,Batticaloa,Bus,Staff,49,15876
+Trincomalee,Hambantota,Bus,Staff,48,20000
+Kandy,Anuradhapura,Bus,School,50,16350
+Gampaha,Hambantota,Van,Staff,8,3632
+Chilaw,Polonnaruwa,Bus,School,43,17888
+Nuwara Eliya,Colombo,Van,Staff,28,13944
+Colombo,Trincomalee,Bus,School,17,5525
+Kandy,Colombo,Van,Staff,21,8799
+Kandy,Galle,Bus,School,22,10582
+Colombo,Kalutara,Bus,School,45,18270
+Bandarawela,Badulla,Van,Staff,10,5560
+Jaffna,Trincomalee,Bus,School,42,20000
+Gampaha,Chilaw,Bus,School,11,3773
+Batticaloa,Kalutara,Van,School,15,6210
+Hambantota,Polonnaruwa,Van,Staff,46,20000
+Kalutara,Chilaw,Bus,Staff,28,10584
+Matara,Batticaloa,Van,Staff,49,20000
+Chilaw,Trincomalee,Van,Staff,35,19915
+Nuwara Eliya,Puttalam,Van,Staff,39,19383
+Colombo,Galle,Bus,School,45,20000
+Batticaloa,Kandy,Bus,School,35,14490
+Batticaloa,Negombo,Van,Staff,7,3927
+Anuradhapura,Matara,Van,Staff,26,13000
+Kandy,Colombo,Van,Staff,13,5811
+Puttalam,Negombo,Van,Staff,13,7176
+Kandy,Polonnaruwa,Bus,School,48,17904
+Kalutara,Nuwara Eliya,Van,Staff,7,3311
+Badulla,Kalutara,Van,Staff,40,20000
+Kalutara,Bandarawela,Bus,Staff,39,17433
+Gampaha,Batticaloa,Van,School,22,15334
+Batticaloa,Kalutara,Van,Staff,26,16822
+Gampaha,Jaffna,Bus,School,43,16383
+Polonnaruwa,Hambantota,Van,School,23,13363
+Bandarawela,Kandy,Van,School,16,10128
+Chilaw,Batticaloa,Van,Staff,35,15400
+Anuradhapura,Bandarawela,Bus,School,13,5876
+Kurunegala,Batticaloa,Bus,Staff,5,1605
+Kandy,Colombo,Van,School,14,7770
+Hambantota,Kandy,Van,School,24,12792
+Batticaloa,Kandy,Van,School,8,5248
+Kandy,Ratnapura,Bus,Staff,8,3040
+Matara,Anuradhapura,Van,Staff,10,6080
+Ratnapura,Trincomalee,Van,Staff,13,7774
+Jaffna,Matara,Van,School,34,16456
+Negombo,Colombo,Bus,School,33,15543
+Hambantota,Polonnaruwa,Van,School,46,20000
+Jaffna,Anuradhapura,Bus,Staff,43,20000
+Chilaw,Gampaha,Van,Staff,28,18424
+Colombo,Hambantota,Bus,School,14,5488
+Galle,Batticaloa,Van,School,33,18249
+Kurunegala,Colombo,Van,Staff,47,20000
+Negombo,Polonnaruwa,Bus,School,44,20000
+Gampaha,Kalutara,Van,School,15,6285
+Badulla,Anuradhapura,Bus,School,46,20000
+Kurunegala,Kalutara,Van,Staff,46,20000
+Trincomalee,Ratnapura,Bus,School,34,13396
+Trincomalee,Polonnaruwa,Van,Staff,43,20000
+Kurunegala,Nuwara Eliya,Van,School,31,20000
+Galle,Matara,Van,School,34,15980
+Badulla,Ratnapura,Bus,School,21,7119
+Hambantota,Kandy,Bus,School,16,7200
+Anuradhapura,Chilaw,Bus,Staff,21,9471
+Kandy,Puttalam,Bus,School,47,17813
+Chilaw,Ratnapura,Bus,School,49,19110
+Hambantota,Negombo,Van,School,39,20000
+Kurunegala,Kandy,Van,Staff,26,17654
+Gampaha,Kandy,Van,School,21,9933
+Nuwara Eliya,Gampaha,Bus,Staff,47,15134
+Puttalam,Gampaha,Van,School,39,20000
+Negombo,Trincomalee,Van,Staff,49,20000
+Batticaloa,Chilaw,Van,School,48,20000
+Colombo,Nuwara Eliya,Van,Staff,50,20000
+Jaffna,Puttalam,Van,Staff,13,5265
+Jaffna,Kalutara,Van,School,39,20000
+Jaffna,Bandarawela,Van,School,49,20000
+Jaffna,Badulla,Van,School,33,14190
+Kandy,Hambantota,Van,School,40,20000
+Batticaloa,Trincomalee,Bus,School,40,13360
+Hambantota,Polonnaruwa,Van,Staff,28,15904
+Jaffna,Gampaha,Bus,Staff,45,18180
+Polonnaruwa,Anuradhapura,Van,Staff,42,20000
+Matara,Nuwara Eliya,Bus,Staff,10,3230
+Batticaloa,Anuradhapura,Bus,School,34,11220
+Anuradhapura,Jaffna,Bus,Staff,30,14550
+Hambantota,Nuwara Eliya,Bus,Staff,9,4194
+Polonnaruwa,Puttalam,Van,School,38,20000
+Bandarawela,Galle,Van,School,30,13560
+Ratnapura,Batticaloa,Van,Staff,27,12528
+Negombo,Colombo,Bus,School,13,5876
+Jaffna,Puttalam,Van,School,21,9177
+Polonnaruwa,Kurunegala,Bus,School,33,15972
+Nuwara Eliya,Matara,Bus,Staff,15,5520
+Kandy,Trincomalee,Bus,School,37,18167
+Jaffna,Ratnapura,Bus,School,18,7632
+Polonnaruwa,Jaffna,Van,Staff,21,9660
+Jaffna,Nuwara Eliya,Van,Staff,40,16400
+Puttalam,Negombo,Van,Staff,15,9555
+Nuwara Eliya,Gampaha,Bus,Staff,25,12275
+Galle,Matara,Van,Staff,40,18560
+Chilaw,Ratnapura,Bus,School,33,15411
+Galle,Nuwara Eliya,Bus,School,21,8022
+Kalutara,Galle,Van,School,32,13920
+Gampaha,Nuwara Eliya,Bus,School,22,10670
+Batticaloa,Bandarawela,Bus,Staff,44,15532
+Jaffna,Bandarawela,Bus,School,41,16687
+Matara,Chilaw,Van,School,21,9723
+Bandarawela,Batticaloa,Van,Staff,5,3115
+Nuwara Eliya,Puttalam,Bus,Staff,12,3816
+Anuradhapura,Jaffna,Van,Staff,45,20000
+Galle,Badulla,Van,School,14,8330
+Gampaha,Negombo,Bus,Staff,16,6000
+Matara,Jaffna,Bus,Staff,12,3660
+Badulla,Ratnapura,Bus,School,42,20000
+Colombo,Trincomalee,Bus,Staff,10,4960
+Gampaha,Anuradhapura,Bus,School,21,9954
+Ratnapura,Jaffna,Bus,School,9,3627
+Trincomalee,Polonnaruwa,Van,Staff,10,6860
+Bandarawela,Negombo,Bus,Staff,11,4939
+Jaffna,Hambantota,Bus,Staff,21,9723
+Kandy,Colombo,Bus,Staff,21,9282
+Anuradhapura,Gampaha,Bus,Staff,44,17424
+Nuwara Eliya,Badulla,Bus,School,17,7055
+Polonnaruwa,Kalutara,Bus,Staff,47,18659
+Polonnaruwa,Nuwara Eliya,Van,School,47,20000
+Matara,Ratnapura,Bus,Staff,44,17688
+Chilaw,Kandy,Van,Staff,10,4420
+Badulla,Trincomalee,Bus,School,19,8626
+Gampaha,Kandy,Bus,School,33,11451
+Gampaha,Kurunegala,Bus,Staff,46,19412
+Puttalam,Polonnaruwa,Van,School,39,19929
+Puttalam,Hambantota,Van,School,35,14385
+Jaffna,Kalutara,Van,Staff,29,16414
+Puttalam,Galle,Van,School,17,9112
+Badulla,Colombo,Bus,School,10,4020
+Batticaloa,Galle,Van,Staff,36,20000
+Bandarawela,Gampaha,Bus,Staff,50,20000
+Nuwara Eliya,Gampaha,Bus,School,15,5535
+Batticaloa,Kalutara,Bus,Staff,46,13984
+Kurunegala,Chilaw,Bus,Staff,20,7460
+Nuwara Eliya,Galle,Van,Staff,36,19980
+Jaffna,Gampaha,Bus,Staff,49,19257
+Kurunegala,Galle,Van,School,10,5460
+Puttalam,Hambantota,Bus,School,16,7792
+Colombo,Puttalam,Van,School,46,20000
+Batticaloa,Colombo,Van,School,10,6130
+Colombo,Negombo,Bus,Staff,23,10718
+Kalutara,Colombo,Bus,Staff,48,20000
+Kandy,Matara,Van,Staff,38,17062
+Puttalam,Hambantota,Van,Staff,44,20000
+Bandarawela,Anuradhapura,Van,School,37,17908
+Polonnaruwa,Anuradhapura,Bus,Staff,21,6993
+Colombo,Kalutara,Van,School,45,20000
+Negombo,Hambantota,Van,School,13,6435
+Kurunegala,Hambantota,Bus,Staff,42,19614
+Batticaloa,Puttalam,Van,School,19,11039
+Trincomalee,Badulla,Bus,School,35,15330
+Bandarawela,Polonnaruwa,Van,Staff,23,13087
+Polonnaruwa,Kandy,Van,Staff,41,19147
+Batticaloa,Kalutara,Bus,Staff,21,6510
+Galle,Colombo,Bus,Staff,46,18078
+Ratnapura,Galle,Van,Staff,20,10140
+Batticaloa,Polonnaruwa,Bus,School,17,8075
+Jaffna,Hambantota,Van,Staff,38,20000
+Gampaha,Galle,Bus,School,12,4824
+Gampaha,Colombo,Van,School,36,15336
+Anuradhapura,Chilaw,Bus,School,10,3170
+Chilaw,Gampaha,Bus,Staff,45,15120
+Jaffna,Kurunegala,Bus,School,23,10764
+Polonnaruwa,Chilaw,Bus,Staff,21,9261
+Kalutara,Trincomalee,Van,School,18,8658
+Kurunegala,Batticaloa,Bus,Staff,45,14670
+Galle,Nuwara Eliya,Van,School,28,12852
+Matara,Polonnaruwa,Bus,School,26,12480
+Puttalam,Ratnapura,Bus,School,14,6090
+Anuradhapura,Chilaw,Van,School,14,9198
+Kurunegala,Chilaw,Bus,School,43,13029
+Negombo,Kandy,Van,School,27,11178
+Batticaloa,Gampaha,Bus,School,7,2359
+Galle,Hambantota,Bus,Staff,41,19270
+Matara,Puttalam,Bus,School,9,4410
+Badulla,Bandarawela,Van,Staff,23,14099
+Hambantota,Anuradhapura,Van,Staff,22,11902
+Bandarawela,Puttalam,Van,Staff,21,9114
+Trincomalee,Batticaloa,Bus,School,22,10472
+Polonnaruwa,Kurunegala,Van,Staff,39,20000
+Negombo,Polonnaruwa,Van,School,39,20000
+Colombo,Negombo,Bus,Staff,5,2385
+Gampaha,Galle,Bus,School,29,13833
+Anuradhapura,Batticaloa,Bus,School,27,9099
+Anuradhapura,Trincomalee,Bus,School,47,18424
+Batticaloa,Matara,Bus,School,5,1875
+Nuwara Eliya,Batticaloa,Van,School,23,14329
+Kurunegala,Kalutara,Van,Staff,11,7205
+Jaffna,Galle,Van,Staff,37,16280
+Batticaloa,Kalutara,Bus,Staff,38,16302
+Gampaha,Hambantota,Van,School,48,20000
+Ratnapura,Puttalam,Van,Staff,24,11784
+Jaffna,Colombo,Van,Staff,34,15878
+Negombo,Colombo,Van,School,46,20000
+Kandy,Batticaloa,Van,Staff,15,9525
+Negombo,Hambantota,Bus,Staff,39,17862
+Hambantota,Bandarawela,Van,Staff,14,7168
+Nuwara Eliya,Gampaha,Van,School,5,2120
+Colombo,Puttalam,Bus,Staff,29,9309
+Bandarawela,Badulla,Van,Staff,38,19266
+Trincomalee,Batticaloa,Van,Staff,32,19616
+Kalutara,Anuradhapura,Bus,School,27,12312
+Kurunegala,Jaffna,Van,Staff,19,8759
+Chilaw,Anuradhapura,Bus,School,33,13134
+Anuradhapura,Kandy,Bus,School,9,4491
+Puttalam,Gampaha,Van,Staff,28,19292
+Kandy,Matara,Bus,Staff,47,19787
+Ratnapura,Badulla,Bus,Staff,6,2610
+Matara,Batticaloa,Bus,Staff,39,15834
+Bandarawela,Galle,Bus,Staff,11,4928
+Anuradhapura,Puttalam,Van,Staff,45,18135
+Negombo,Polonnaruwa,Van,Staff,12,8340
+Hambantota,Badulla,Van,School,21,9366
+Nuwara Eliya,Badulla,Van,Staff,20,10400
+Matara,Negombo,Bus,Staff,16,7536
+Trincomalee,Anuradhapura,Bus,Staff,36,17352
+Polonnaruwa,Ratnapura,Bus,School,9,2988
+Negombo,Kandy,Van,Staff,40,20000
+Bandarawela,Negombo,Van,Staff,14,6104
+Kandy,Hambantota,Van,Staff,10,4600
+Jaffna,Nuwara Eliya,Van,School,39,18135
+Kurunegala,Kandy,Van,School,39,17277
+Badulla,Puttalam,Van,School,34,20000
+Puttalam,Kandy,Bus,Staff,38,16416
+Kandy,Bandarawela,Bus,School,19,6403
+Colombo,Negombo,Bus,School,15,6495
+Negombo,Kurunegala,Van,School,12,5196
+Batticaloa,Bandarawela,Van,School,37,15984
+Hambantota,Matara,Bus,Staff,43,13158
+Negombo,Kandy,Van,School,15,6870
+Ratnapura,Badulla,Van,Staff,11,7040
+Negombo,Jaffna,Van,School,13,7605
+Chilaw,Galle,Bus,School,11,3971
+Kurunegala,Negombo,Van,School,39,20000
+Ratnapura,Kalutara,Van,Staff,46,20000
+Galle,Kalutara,Van,Staff,47,20000
+Ratnapura,Polonnaruwa,Bus,Staff,48,16608
+Jaffna,Hambantota,Van,School,44,20000
+Puttalam,Anuradhapura,Van,Staff,25,16375
+Galle,Jaffna,Van,School,12,5676
+Batticaloa,Kandy,Van,Staff,18,11898
+Galle,Polonnaruwa,Bus,Staff,50,20000
+Nuwara Eliya,Jaffna,Van,Staff,34,14144
+Galle,Colombo,Bus,School,30,14130
+Kandy,Kurunegala,Bus,School,19,7372
+Galle,Kurunegala,Van,Staff,49,19992
+Anuradhapura,Ratnapura,Bus,Staff,31,9300
+Anuradhapura,Gampaha,Bus,School,40,17160
+Badulla,Colombo,Bus,Staff,19,7923
+Badulla,Hambantota,Van,Staff,16,9472
+Colombo,Puttalam,Bus,School,14,6132
+Kandy,Anuradhapura,Bus,School,10,4990
+Badulla,Negombo,Bus,Staff,32,11264
+Trincomalee,Hambantota,Bus,School,31,13640
+Puttalam,Matara,Bus,School,10,3700
+Bandarawela,Kurunegala,Van,Staff,5,3295
+Kalutara,Negombo,Van,School,10,4180
+Ratnapura,Puttalam,Van,Staff,14,7560
+Badulla,Ratnapura,Bus,Staff,46,15640
+Bandarawela,Matara,Bus,School,16,5328
+Badulla,Kurunegala,Bus,Staff,27,12960
+Batticaloa,Chilaw,Van,Staff,35,15540
+Hambantota,Badulla,Van,School,33,17622
+Negombo,Puttalam,Van,Staff,49,20000
+Polonnaruwa,Matara,Bus,Staff,22,10428
+Puttalam,Polonnaruwa,Van,School,39,17004
+Puttalam,Bandarawela,Bus,Staff,47,16027
+Kandy,Polonnaruwa,Van,School,11,5764
+Negombo,Batticaloa,Bus,School,42,15456
+Chilaw,Kurunegala,Bus,Staff,20,9860
+Gampaha,Polonnaruwa,Van,School,35,20000
+Chilaw,Puttalam,Van,Staff,50,20000
+Kurunegala,Gampaha,Van,School,50,20000
+Ratnapura,Nuwara Eliya,Bus,School,40,13960
+Badulla,Hambantota,Van,School,45,20000
+Nuwara Eliya,Badulla,Bus,Staff,50,19750
+Batticaloa,Chilaw,Bus,School,41,18532
+Ratnapura,Galle,Bus,School,27,12933
+Badulla,Matara,Van,Staff,33,20000
+Ratnapura,Anuradhapura,Van,School,7,3080
+Trincomalee,Hambantota,Van,Staff,5,2730
+Kandy,Batticaloa,Bus,Staff,21,9660
+Jaffna,Kalutara,Bus,Staff,20,6240
+Badulla,Matara,Van,Staff,43,20000
+Chilaw,Hambantota,Bus,Staff,27,9666
+Galle,Nuwara Eliya,Van,Staff,19,12863
+Hambantota,Galle,Bus,School,36,11988
+Matara,Chilaw,Van,School,15,6585
+Ratnapura,Polonnaruwa,Van,School,7,3094
+Colombo,Trincomalee,Bus,Staff,9,3645
+Kurunegala,Bandarawela,Van,Staff,15,6150
+Galle,Nuwara Eliya,Van,School,36,19728
+Nuwara Eliya,Kandy,Bus,Staff,22,6996
+Galle,Chilaw,Van,Staff,5,2055
+Anuradhapura,Polonnaruwa,Van,School,5,2950
+Gampaha,Anuradhapura,Bus,Staff,49,18277
+Ratnapura,Jaffna,Bus,Staff,41,15293
+Ratnapura,Batticaloa,Van,Staff,5,3270
+Negombo,Nuwara Eliya,Van,Staff,23,12167
+Kurunegala,Bandarawela,Van,Staff,46,20000
+Polonnaruwa,Kurunegala,Bus,Staff,18,7182
+Matara,Anuradhapura,Bus,Staff,29,12760
+Nuwara Eliya,Kalutara,Van,School,33,19272
+Jaffna,Kandy,Van,Staff,41,20000
+Puttalam,Gampaha,Van,Staff,5,3330
+Jaffna,Trincomalee,Bus,School,37,13949
+Batticaloa,Polonnaruwa,Van,School,11,6314
+Kandy,Nuwara Eliya,Bus,Staff,26,11674
+Negombo,Trincomalee,Bus,School,24,9888
+Kandy,Puttalam,Van,Staff,19,11666
+Kandy,Puttalam,Van,School,26,16848
+Galle,Matara,Van,Staff,35,20000
+Puttalam,Hambantota,Bus,School,32,12064
+Kandy,Galle,Bus,Staff,44,17468
+Jaffna,Galle,Bus,School,27,10584
+Matara,Galle,Bus,School,30,11370
+Kandy,Bandarawela,Bus,School,23,9637
+Bandarawela,Nuwara Eliya,Bus,Staff,17,5338
+Kandy,Nuwara Eliya,Bus,Staff,21,6510
+Anuradhapura,Jaffna,Van,School,45,19170
+Gampaha,Chilaw,Bus,School,24,9432
+Jaffna,Kandy,Van,Staff,43,20000
+Kurunegala,Negombo,Van,School,48,19296
+Polonnaruwa,Gampaha,Van,School,26,13572
+Badulla,Batticaloa,Van,Staff,13,6032
+Negombo,Jaffna,Bus,School,38,14972
+Ratnapura,Matara,Van,Staff,15,7050
+Kurunegala,Matara,Van,Staff,40,20000
+Chilaw,Polonnaruwa,Bus,School,48,14592
+Nuwara Eliya,Batticaloa,Van,School,38,16112
+Chilaw,Ratnapura,Van,Staff,47,20000
+Badulla,Kandy,Bus,Staff,18,8388
+Colombo,Bandarawela,Van,School,10,4670
+Kalutara,Matara,Van,School,24,13176
+Batticaloa,Jaffna,Bus,Staff,23,8648
+Puttalam,Polonnaruwa,Van,Staff,8,4296
+Kurunegala,Anuradhapura,Van,School,47,20000
+Bandarawela,Hambantota,Bus,School,15,6960
+Bandarawela,Galle,Bus,Staff,33,16071
+Nuwara Eliya,Galle,Van,School,7,3857
+Jaffna,Galle,Van,School,42,20000
+Bandarawela,Jaffna,Van,Staff,23,13593
+Anuradhapura,Kurunegala,Bus,Staff,8,3008
+Trincomalee,Hambantota,Bus,Staff,8,3568
+Nuwara Eliya,Chilaw,Van,School,38,15200
+Matara,Kalutara,Bus,Staff,39,18057
+Jaffna,Galle,Bus,School,5,1745
+Nuwara Eliya,Negombo,Bus,Staff,41,17015
+Negombo,Batticaloa,Van,School,41,17671
+Kurunegala,Badulla,Bus,School,40,13560
+Colombo,Badulla,Van,Staff,31,18507
+Batticaloa,Negombo,Bus,Staff,24,11496
+Kandy,Bandarawela,Van,School,5,2050
+Polonnaruwa,Badulla,Bus,School,18,8100
+Batticaloa,Polonnaruwa,Van,School,11,6842
+Kandy,Chilaw,Van,School,14,8610
+Badulla,Matara,Bus,School,32,11520
+Nuwara Eliya,Trincomalee,Bus,School,41,17835
+Polonnaruwa,Kandy,Van,School,43,17501
+Jaffna,Kalutara,Bus,School,12,5736
+Kandy,Nuwara Eliya,Van,Staff,34,17782
+Kandy,Kurunegala,Van,School,18,8550
+Hambantota,Chilaw,Bus,School,6,2544
+Nuwara Eliya,Trincomalee,Van,Staff,44,19888
+Ratnapura,Kalutara,Bus,School,6,2376
+Matara,Kandy,Bus,Staff,46,18906
+Polonnaruwa,Chilaw,Van,School,18,10656
+Nuwara Eliya,Kalutara,Van,School,11,5973
+Puttalam,Batticaloa,Bus,Staff,21,9093
+Gampaha,Trincomalee,Van,School,14,7350
+Gampaha,Galle,Bus,Staff,30,11190
+Badulla,Matara,Bus,School,39,13143
+Chilaw,Matara,Bus,School,11,4312
+Kurunegala,Anuradhapura,Van,School,29,17487
+Kalutara,Polonnaruwa,Bus,Staff,12,3936
+Galle,Bandarawela,Van,Staff,20,12080
+Trincomalee,Ratnapura,Van,School,41,20000
+Colombo,Kurunegala,Van,Staff,41,20000
+Galle,Polonnaruwa,Bus,School,25,12500
+Bandarawela,Kalutara,Van,School,17,10387
+Trincomalee,Batticaloa,Bus,Staff,34,13260
+Kalutara,Kurunegala,Van,Staff,19,8246
+Kandy,Galle,Bus,Staff,16,7392
+Badulla,Negombo,Van,Staff,29,15689
+Trincomalee,Nuwara Eliya,Van,School,37,20000
+Bandarawela,Kurunegala,Bus,Staff,17,5287
+Kalutara,Trincomalee,Van,School,29,12180
+Puttalam,Badulla,Bus,Staff,24,9552
+Colombo,Gampaha,Bus,School,48,19920
+Trincomalee,Polonnaruwa,Bus,Staff,30,10620
+Gampaha,Matara,Van,School,45,20000
+Polonnaruwa,Galle,Bus,Staff,45,20000
+Gampaha,Negombo,Bus,School,8,2792
+Chilaw,Jaffna,Bus,Staff,36,11196
+Puttalam,Kandy,Bus,School,47,15745
+Ratnapura,Trincomalee,Van,Staff,37,19869
+Gampaha,Polonnaruwa,Bus,School,36,14688
+Nuwara Eliya,Anuradhapura,Van,Staff,10,6990
+Kurunegala,Anuradhapura,Bus,Staff,42,20000
+Kurunegala,Kalutara,Van,Staff,43,20000
+Ratnapura,Jaffna,Bus,Staff,19,5909
+Batticaloa,Trincomalee,Van,School,25,11150
+Batticaloa,Hambantota,Van,School,39,16848
+Galle,Ratnapura,Bus,Staff,43,12986
+Negombo,Kandy,Van,School,21,10542
+Kalutara,Anuradhapura,Bus,School,16,7712
+Puttalam,Nuwara Eliya,Bus,School,47,19270
+Badulla,Kandy,Van,School,13,6071
+Gampaha,Badulla,Bus,School,46,18400
+Ratnapura,Badulla,Van,Staff,38,16074
+Nuwara Eliya,Kurunegala,Van,School,21,9870
+Batticaloa,Trincomalee,Bus,School,49,17297
+Bandarawela,Galle,Bus,School,10,4930
+Negombo,Trincomalee,Van,Staff,23,10534
+Ratnapura,Batticaloa,Van,Staff,49,20000
+Matara,Galle,Bus,School,11,3938
+Hambantota,Batticaloa,Van,Staff,43,20000
+Trincomalee,Ratnapura,Bus,Staff,14,6608
+Chilaw,Badulla,Van,Staff,16,11120
+Matara,Galle,Van,School,17,8024
+Nuwara Eliya,Colombo,Van,Staff,6,4050
+Nuwara Eliya,Anuradhapura,Van,School,8,4656
+Hambantota,Trincomalee,Van,School,36,20000
+Kurunegala,Matara,Bus,Staff,23,7728
+Bandarawela,Puttalam,Van,Staff,48,20000
+Batticaloa,Gampaha,Bus,Staff,7,3395
+Negombo,Jaffna,Bus,School,38,12768
+Negombo,Hambantota,Van,School,46,20000
+Hambantota,Colombo,Bus,Staff,10,3140
+Trincomalee,Jaffna,Van,Staff,18,9432
+Chilaw,Kurunegala,Van,School,5,2255
+Polonnaruwa,Bandarawela,Bus,School,9,3285
+Matara,Colombo,Van,Staff,19,12920
+Kalutara,Chilaw,Van,Staff,43,20000
+Kurunegala,Colombo,Van,Staff,10,6730
+Jaffna,Batticaloa,Bus,Staff,14,5446
+Trincomalee,Anuradhapura,Bus,School,43,15222
+Matara,Trincomalee,Van,School,17,7021
+Hambantota,Negombo,Van,School,5,2305
+Kandy,Negombo,Van,School,7,2919
+Trincomalee,Jaffna,Bus,School,19,7828
+Kandy,Gampaha,Van,Staff,47,20000
+Nuwara Eliya,Kalutara,Van,School,34,20000
+Batticaloa,Kalutara,Van,School,21,14259
+Ratnapura,Bandarawela,Bus,Staff,29,9193
+Negombo,Bandarawela,Bus,School,21,6741
+Polonnaruwa,Batticaloa,Bus,School,46,17710
+Jaffna,Trincomalee,Van,School,20,13480
+Puttalam,Anuradhapura,Van,Staff,48,20000
+Bandarawela,Ratnapura,Bus,School,14,4522
+Kalutara,Kurunegala,Bus,School,31,10199
+Nuwara Eliya,Jaffna,Van,Staff,36,19656
+Trincomalee,Galle,Bus,School,23,8257
+Nuwara Eliya,Ratnapura,Bus,School,49,20000
+Matara,Galle,Van,Staff,14,6006
+Bandarawela,Negombo,Bus,School,14,4662
+Nuwara Eliya,Puttalam,Bus,School,35,13615
+Nuwara Eliya,Galle,Bus,School,41,13120
+Ratnapura,Matara,Van,School,13,8775
+Negombo,Jaffna,Bus,School,44,15180
+Negombo,Chilaw,Van,Staff,37,20000
+Matara,Kalutara,Van,School,33,20000
+Bandarawela,Matara,Van,School,13,7293
+Negombo,Badulla,Van,School,46,20000
+Galle,Chilaw,Bus,Staff,15,7425
+Jaffna,Puttalam,Bus,Staff,14,7000
+Ratnapura,Hambantota,Van,Staff,25,13825
+Polonnaruwa,Chilaw,Bus,School,12,4656
+Badulla,Kurunegala,Bus,School,21,10080
+Kandy,Badulla,Bus,Staff,46,20000
+Badulla,Colombo,Van,Staff,35,18795
+Batticaloa,Nuwara Eliya,Bus,Staff,21,6636
+Bandarawela,Batticaloa,Bus,Staff,7,2562
+Colombo,Bandarawela,Van,School,23,16031
+Matara,Jaffna,Bus,Staff,6,2610
+Hambantota,Trincomalee,Van,School,14,5880
+Anuradhapura,Gampaha,Van,Staff,32,20000
+Nuwara Eliya,Anuradhapura,Van,Staff,18,11088
+Bandarawela,Galle,Van,School,42,20000
+Matara,Batticaloa,Bus,School,33,11220
+Puttalam,Nuwara Eliya,Van,School,16,7616
+Kandy,Negombo,Bus,Staff,23,9568
+Anuradhapura,Bandarawela,Van,Staff,44,20000
+Polonnaruwa,Puttalam,Bus,Staff,6,2898
+Matara,Bandarawela,Van,Staff,7,3808
+Jaffna,Kurunegala,Bus,School,18,7524
+Hambantota,Colombo,Bus,Staff,35,14245
+Puttalam,Colombo,Van,School,28,12460
+Kalutara,Hambantota,Bus,Staff,17,6783
+Polonnaruwa,Colombo,Van,Staff,38,20000
+Badulla,Batticaloa,Bus,School,32,11264
+Trincomalee,Gampaha,Van,Staff,13,6708
+Nuwara Eliya,Polonnaruwa,Van,Staff,18,12546
+Kandy,Batticaloa,Van,Staff,12,5940
+Polonnaruwa,Hambantota,Van,School,17,8381
+Ratnapura,Jaffna,Bus,School,49,15386
+Anuradhapura,Nuwara Eliya,Bus,Staff,5,2400
+Badulla,Bandarawela,Van,Staff,8,4296
+Gampaha,Kandy,Van,School,33,19602
+Colombo,Hambantota,Van,Staff,24,12216
+Negombo,Anuradhapura,Bus,School,21,9219
+Colombo,Puttalam,Van,Staff,27,12987
+Negombo,Nuwara Eliya,Bus,Staff,5,2480
+Matara,Anuradhapura,Bus,Staff,24,7800
+Polonnaruwa,Bandarawela,Van,School,49,20000
+Trincomalee,Galle,Bus,Staff,43,13287
+Negombo,Bandarawela,Bus,School,39,11739
+Batticaloa,Kalutara,Bus,School,8,2440
+Batticaloa,Puttalam,Van,School,13,5291
+Colombo,Puttalam,Van,School,20,11960
+Galle,Polonnaruwa,Van,School,42,20000
+Ratnapura,Chilaw,Bus,Staff,18,8082
+Kurunegala,Badulla,Bus,School,6,2514
+Chilaw,Trincomalee,Van,School,11,4653
+Batticaloa,Puttalam,Van,School,19,7885
+Nuwara Eliya,Trincomalee,Van,Staff,28,13384
+Anuradhapura,Negombo,Bus,School,47,19129
+Negombo,Hambantota,Van,School,12,7320
+Colombo,Bandarawela,Van,Staff,40,20000
+Hambantota,Jaffna,Van,Staff,32,13248
+Galle,Matara,Bus,Staff,15,7290
+Trincomalee,Chilaw,Van,Staff,26,15704
+Batticaloa,Ratnapura,Bus,Staff,27,12879
+Trincomalee,Kandy,Bus,Staff,13,4004
+Negombo,Chilaw,Bus,School,48,16080
+Batticaloa,Bandarawela,Van,School,32,14784
+Bandarawela,Batticaloa,Bus,Staff,25,9900
+Hambantota,Kurunegala,Van,Staff,18,7524
+Galle,Puttalam,Bus,School,38,17670
+Puttalam,Negombo,Bus,Staff,8,2656
