@@ -11,4 +11,4 @@ def getPricePrediction(start, end, type, service, km):
 
     predicted_price = predict_price('makola', 'kiribathgoda', 'Van', 'School', 25)
     print(f"Predicted Monthly Subscription: Rs {predicted_price:.2f}")
-    return f"Rs. {predicted_price:.2f}"
+    return f"{round(predicted_price)}"
